@@ -1,0 +1,303 @@
+{
+  "title": "Bin Chhin",
+  "pageID": 53531406,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "Government ministers of Cambodia",
+    "Cambodian People's Party politicians",
+    "Members of the National Assembly (Cambodia)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bin Chhin (ប៊ិន ឈិន; born 17 August 1949) is a Cambodian politician who has served as deputy prime minister of Cambodia since 2007.",
+              "links": [
+                {
+                  "text": "Cambodian",
+                  "type": "internal",
+                  "page": "Cambodia"
+                },
+                {
+                  "text": "deputy prime minister of Cambodia",
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Cambodia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bin Chhin"
+                ]
+              }
+            },
+            {
+              "text": "In March 2017, he was appointed the acting Minister in Charge of the Council of Ministers following Sok An's death.",
+              "links": [
+                {
+                  "text": "Council of Ministers",
+                  "type": "internal",
+                  "page": "Cabinet of Cambodia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sok An"
+                }
+              ]
+            },
+            {
+              "text": "He is also the chairman of the National Authority for Land Dispute Resolution, in charge of solving the nation's land disputes."
+            },
+            {
+              "text": "He is a Member of Parliament for the constituency of Prey Veng.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "text": "Prey Veng",
+                  "type": "internal",
+                  "page": "Prey Veng (National Assembly constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cambodian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "lang": "Cambodian",
+          "list": [
+            "Bin",
+            "Chhin"
+          ],
+          "template": "family name hatnote"
+        },
+        {
+          "list": [
+            "Other political offices"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "year": "1949",
+          "month": "8",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Bin Chhin"
+          },
+          "native_name": {
+            "text": "ប៊ិន ឈិន"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister in Charge of the Office of the Council of Ministers",
+            "links": [
+              {
+                "text": "Minister in Charge of the Office of the Council of Ministers",
+                "type": "internal",
+                "page": "Cabinet of Cambodia"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 March 2017"
+          },
+          "predecessor": {
+            "text": "Sok An",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sok An"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Prime Minister of Cambodia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Cambodia"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 September 2007"
+          },
+          "office2": {
+            "text": "Chairman of the National Authority for Land Dispute Resolution"
+          },
+          "primeminister2": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "24 September 2013"
+          },
+          "term_end2": {
+            "text": "12 September 2018"
+          },
+          "successor2": {
+            "text": "Chea Sophara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chea Sophara"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Member of Parliament for Takéo",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Parliament of Cambodia"
+              },
+              {
+                "text": "Takéo",
+                "type": "internal",
+                "page": "Takéo Province"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "5 September 2018"
+          },
+          "office4": {
+            "text": "Member of Parliament for Prey Veng",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Parliament of Cambodia"
+              },
+              {
+                "text": "Prey Veng",
+                "type": "internal",
+                "page": "Prey Veng (National Assembly constituency)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "14 June 1993"
+          },
+          "term_end4": {
+            "text": "29 July 2018"
+          },
+          "birth_date": {
+            "text": "August 17, 1949"
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.akp.gov.kh/?p=36620",
+          "title": "List of New Royal Government Members",
+          "work": "Agence Kampuchea Presse",
+          "date": "24 September 2013",
+          "accessdate": "19 March 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.cambodiadaily.com/second/sok-ans-top-job-filled-many-still-vacant-126697",
+          "title": "Sok An's Top Job Filled, But Many Still Vacant",
+          "work": "The Cambodia Daily",
+          "date": "17 March 2017",
+          "accessdate": "19 March 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.phnompenhpost.com/national/no-land-revolution-coming-official/",
+          "title": "'No land revolution' coming: official",
+          "work": "The Phnom Penh Post",
+          "date": "1 March 2016",
+          "accessdate": "19 March 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "cambodia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
