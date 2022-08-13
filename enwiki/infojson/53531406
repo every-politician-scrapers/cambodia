@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Parliament of Cambodia",
+        "Prey Veng (National Assembly constituency)"
+      ],
+      "stated_as": "Member of Parliament for Prey Veng"
+    },
+    "P580": "1993-06-14",
+    "P582": "2018-07-29"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Cambodia"
+      ],
+      "stated_as": "Deputy Prime Minister of Cambodia"
+    },
+    "P580": "2007-09-05"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Chairman of the National Authority for Land Dispute Resolution"
+    },
+    "P580": "2013-09-24",
+    "P582": "2018-09-12",
+    "P1366": {
+      "links": [
+        "Chea Sophara"
+      ],
+      "stated_as": "Chea Sophara"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Cambodia"
+      ],
+      "stated_as": "Minister in Charge of the Office of the Council of Ministers"
+    },
+    "P580": "2017-03-16",
+    "P1365": {
+      "links": [
+        "Sok An"
+      ],
+      "stated_as": "Sok An"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of Cambodia",
+        "Takéo Province"
+      ],
+      "stated_as": "Member of Parliament for Takéo"
+    },
+    "P580": "2018-09-05"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Posts and Telecommunications (Cambodia)"
+      ],
+      "stated_as": "Minister of Posts and Telecommunications"
+    },
+    "P580": "2013-09-24",
+    "P1365": {
+      "links": [
+        "So Khun"
+      ],
+      "stated_as": "So Khun"
+    },
+    "P582": "2016-04-04",
+    "P1366": {
+      "links": [
+        "Tram Iv Tek"
+      ],
+      "stated_as": "Tram Iv Tek"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs and International Cooperation (Cambodia)"
+      ],
+      "stated_as": "Minister of Foreign Affairs and International Cooperation"
+    },
+    "P580": "2016-04-05",
+    "P1365": {
+      "links": [
+        "Hor Namhong"
+      ],
+      "stated_as": "Hor Namhong"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Kandal (National Assembly constituency)"
+      ],
+      "stated_as": "Kandal Province"
+    },
+    "P580": "2018-09-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Cambodia"
+      ],
+      "stated_as": "Deputy Prime Minister of Cambodia"
+    },
+    "P580": "2018-09-06"
+  }
+]
