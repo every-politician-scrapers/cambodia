@@ -385,7 +385,7 @@
         {
           "title": "See former",
           "list": [
-            "Norodom Sihanouk\n(1998–2004)"
+            "Norodom Sihanouk\n(until 2004)"
           ],
           "template": "list collapsed"
         },
@@ -393,13 +393,20 @@
           "list": [
             "Norodom Sihanouk\n(1993)",
             "Chea Sim\n(1989–1993)",
-            "Heng Samrin\n(1984–1989)"
+            "Heng Samrin\n(until 1989)"
           ],
           "template": "ubl"
         },
         {
           "list": [
-            "Himself\n(1985–1986)",
+            "Chea Sim\n(since 1989)",
+            "Heng Samrin\n(until 1989)"
+          ],
+          "template": "ubl"
+        },
+        {
+          "list": [
+            "Himself\n(since 1985)",
             "Chan Sy\n(1982–1984)",
             "Pen Sovan\n(1981)"
           ],
@@ -519,15 +526,22 @@
             "text": "30 November 1998"
           },
           "monarch2": {
-            "text": "Norodom Sihanouk\n(1993–1998)",
-            "formatting": {
-              "italic": [
-                "1998"
-              ]
-            }
+            "text": "Norodom Sihanouk\n(since 1993)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norodom Sihanouk"
+              }
+            ]
           },
           "predecessor2": {
-            "text": "Norodom Ranariddh\nas sole Prime Minister"
+            "text": "Norodom Ranariddh\nas sole Prime Minister",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norodom Ranariddh"
+              }
+            ]
           },
           "successor2": {
             "text": "Himself\nas sole Prime Minister"
@@ -539,7 +553,7 @@
             "text": "2 July 1993\nActing from 26 December 1984"
           },
           "president3": {
-            "text": "Norodom Sihanouk\n(1993)\n\nChea Sim\n(1989–1993)\n\nHeng Samrin\n(1984–1989)"
+            "text": "Norodom Sihanouk\n(1993)\n\nChea Sim\n(1989–1993)\n\nHeng Samrin\n(until 1989)"
           },
           "predecessor3": {
             "text": "Chan Sy",
@@ -551,7 +565,13 @@
             ]
           },
           "successor3": {
-            "text": "Norodom Ranariddh"
+            "text": "Norodom Ranariddh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norodom Ranariddh"
+              }
+            ]
           },
           "office4": {
             "text": "President of the Cambodian People's Party",
@@ -589,7 +609,13 @@
             "text": "20 June 2015"
           },
           "predecessor4": {
-            "text": "Chea Sim"
+            "text": "Chea Sim",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chea Sim"
+              }
+            ]
           },
           "office5": {
             "text": "Member of the National Assembly",
@@ -633,14 +659,11 @@
               }
             ]
           },
+          "president6": {
+            "text": "Chea Sim\n(since 1989)\n\nHeng Samrin\n(until 1989)"
+          },
           "primeminister6": {
-            "text": "Himself\n(1986–1990)",
-            "formatting": {
-              "italic": [
-                "1986",
-                "1990"
-              ]
-            }
+            "text": "Himself"
           },
           "term_start6": {
             "text": "1988",
@@ -668,8 +691,17 @@
               }
             ]
           },
+          "president7": {
+            "text": "Heng Samrin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heng Samrin"
+              }
+            ]
+          },
           "primeminister7": {
-            "text": "Himself\n(1985–1986)\n\nChan Sy\n(1982–1984)\n\nPen Sovan\n(1981)"
+            "text": "Himself\n(since 1985)\n\nChan Sy\n(1982–1984)\n\nPen Sovan\n(1981)"
           },
           "term_start7": {
             "text": "8 January 1979"
@@ -687,7 +719,13 @@
             ]
           },
           "successor7": {
-            "text": "Kong Korm"
+            "text": "Kong Korm",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kong Korm"
+              }
+            ]
           },
           "birth_name": {
             "text": "Hun Bunal"
@@ -777,11 +815,15 @@
             "text": "Official website"
           },
           "allegiance": {
-            "text": "🇰🇭 Khmer Rouge (1970–1977)\n People's Republic of Kampuchea (1979–1992)\n🇰🇭 Cambodia (1993–1999)",
+            "text": "🇰🇭 Khmer Rouge/Democratic Kampuchea\n People's Republic of Kampuchea\n🇰🇭 Cambodia",
             "links": [
               {
                 "type": "internal",
                 "page": "Khmer Rouge"
+              },
+              {
+                "type": "internal",
+                "page": "Democratic Kampuchea"
               },
               {
                 "text": "People's Republic of Kampuchea",
@@ -796,8 +838,12 @@
             ]
           },
           "branch": {
-            "text": "🇰🇭 Kampuchean United Front for National Salvation\n🇰🇭 Kampuchean People's Revolutionary Army\n🇰🇭 Royal Cambodian Army",
+            "text": "🇰🇭 Khmer Rouge\n🇰🇭 Kampuchean United Front for National Salvation/Kampuchean People's Revolutionary Army\n🇰🇭 Royal Cambodian Army",
             "links": [
+              {
+                "type": "internal",
+                "page": "Khmer Rouge"
+              },
               {
                 "type": "internal",
                 "page": "Kampuchean United Front for National Salvation"

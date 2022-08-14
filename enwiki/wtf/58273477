@@ -1,0 +1,192 @@
+{
+  "title": "Mam Bunheng",
+  "pageID": 58273477,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "Cambodian physicians",
+    "People from Takéo province",
+    "Members of the National Assembly (Cambodia)",
+    "Government ministers of Cambodia",
+    "COVID-19 pandemic in Cambodia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mam Bunheng (ម៉ម ប៊ុនហេង; born 13 April 1949) is a Cambodian politician currently serving as the Minister of Health since 2008.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Cambodia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mam Bunheng"
+                ]
+              }
+            },
+            {
+              "text": "Bunheng has been prominent in Cambodia's response to the COVID-19 pandemic.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in Cambodia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cambodian politician",
+          "template": "short description"
+        },
+        {
+          "lang": "Cambodian",
+          "list": [
+            "Mam",
+            "Bunheng"
+          ],
+          "template": "family name hatnote"
+        },
+        {
+          "date": "August 2018",
+          "template": "blp sources"
+        },
+        {
+          "year": "1949",
+          "month": "4",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Mam Bunheng"
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Cambodia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 September 2008"
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 13, 1949"
+          },
+          "birth_place": {
+            "text": "Takéo, Cambodia",
+            "links": [
+              {
+                "text": "Takéo",
+                "type": "internal",
+                "page": "Takéo province"
+              },
+              {
+                "text": "Cambodia",
+                "type": "internal",
+                "page": "French Protectorate of Cambodia"
+              }
+            ]
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Health Sciences",
+            "links": [
+              {
+                "text": "University of Health Sciences",
+                "type": "internal",
+                "page": "University of Health Sciences (Cambodia)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "All coronavirus patients recover in Cambodia, no cases for weeks",
+          "url": "https://www.aljazeera.com/news/2020/5/16/all-coronavirus-patients-recover-in-cambodia-no-cases-for-weeks",
+          "access-date": "2021-03-05",
+          "website": "www.aljazeera.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "First COVAX vaccines arrive in Cambodia from India",
+          "url": "https://uk.finance.yahoo.com/news/first-covax-vaccines-arrive-cambodia-143155550.html",
+          "access-date": "2021-03-05",
+          "website": "uk.finance.yahoo.com",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        },
+        {
+          "template": "covid-19-stub"
+        }
+      ]
+    }
+  ]
+}

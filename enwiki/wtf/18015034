@@ -1,0 +1,680 @@
+{
+  "title": "Tea Banh",
+  "pageID": 18015034,
+  "categories": [
+    "1945 births",
+    "Cambodian People's Party politicians",
+    "Cambodian politicians of Chinese descent",
+    "Cambodian people of Thai descent",
+    "Thai people of Chinese descent",
+    "Cambodian generals",
+    "Cambodian military personnel",
+    "Government ministers of Cambodia",
+    "Defence ministers of Cambodia",
+    "Living people",
+    "People from Koh Kong province",
+    "Members of the National Assembly (Cambodia)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tea Banh  (ទៀ បាញ់, ; born 5 November 1945) is a Cambodian politician who is the current Deputy Prime Minister and Minister for National Defence of Cambodia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambodia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tea Banh "
+                ]
+              }
+            },
+            {
+              "text": "He is a former general and a member of the Cambodian People's Party and was elected to represent Siem Reap Province in the National Assembly of Cambodia in the 2003 elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambodian People's Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Siem Reap Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Cambodia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cambodian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Tea",
+            "Banh"
+          ],
+          "lang": "Cambodian",
+          "template": "family name hatnote"
+        },
+        {
+          "list": [
+            "Additional positions"
+          ],
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
+          "year": "1945",
+          "month": "11",
+          "day": "5",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Khmer"
+          ],
+          "template": "contains special characters"
+        },
+        {
+          "transcription": "tiə ɓaɲ",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "General\nSamdech Pichey Sena",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General officer"
+              },
+              {
+                "text": "Samdech Pichey Sena",
+                "type": "internal",
+                "page": "Samdech"
+              }
+            ]
+          },
+          "name": {
+            "text": "Tea Banh"
+          },
+          "native_name": {
+            "text": "ទៀ បាញ់"
+          },
+          "honorific-suffix": {
+            "text": "NM GCC MP",
+            "links": [
+              {
+                "text": "NM",
+                "type": "internal",
+                "page": "Grand Order of National Merit"
+              },
+              {
+                "text": "GCC",
+                "type": "internal",
+                "page": "Royal Order of Cambodia"
+              },
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "General Tea Banh.jpg"
+          },
+          "office": {
+            "text": "Minister of National Defence",
+            "links": [
+              {
+                "text": "Minister of National Defence",
+                "type": "internal",
+                "page": "Ministry of National Defence (Cambodia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "27 June 2006"
+          },
+          "primeminister1": {
+            "text": "Hun Sen Norodom Ranariddh Ung Huot Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norodom Ranariddh"
+              },
+              {
+                "type": "internal",
+                "page": "Ung Huot"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1987",
+            "number": 1987
+          },
+          "term_end1": {
+            "text": "2004",
+            "number": 2004
+          },
+          "predecessor1": {
+            "text": "Bou Thang",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bou Thang"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Prime Minister of Cambodia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Cambodia"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Norodom Sihanouk Norodom Sihamoni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norodom Sihanouk"
+              },
+              {
+                "type": "internal",
+                "page": "Norodom Sihamoni"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2000",
+            "number": 2000
+          },
+          "office3": {
+            "text": "Vice President of the Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Hun Sen"
+          },
+          "alongside3": {
+            "text": "Say Chhum, Sar Kheng and Men Sam An",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Say Chhum"
+              },
+              {
+                "type": "internal",
+                "page": "Sar Kheng"
+              },
+              {
+                "type": "internal",
+                "page": "Men Sam An"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "24 December 2021"
+          },
+          "predecessor3": {
+            "text": "Hun Sen (2015)"
+          },
+          "office4": {
+            "text": "Minister of Transport Minister of Posts and Telecommunications",
+            "links": [
+              {
+                "text": "Minister of Transport",
+                "type": "internal",
+                "page": "Ministry of Public Works and Transport (Cambodia)"
+              },
+              {
+                "text": "Minister of Posts and Telecommunications",
+                "type": "internal",
+                "page": "Ministry of Posts and Telecommunications (Cambodia)"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Chan Sy Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chan Sy"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1982",
+            "number": 1982
+          },
+          "term_end4": {
+            "text": "1987",
+            "number": 1987
+          },
+          "office5": {
+            "text": "Member of Parliament for Siem Reap",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Parliament of Cambodia"
+              },
+              {
+                "text": "Siem Reap",
+                "type": "internal",
+                "page": "Siem Reap Province"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "14 June 1993"
+          },
+          "majority5": {
+            "text": "52,356 (13.24%)"
+          },
+          "birth_name": {
+            "text": "Tea Sangvan"
+          },
+          "birth_date": {
+            "text": "November 5, 1945"
+          },
+          "birth_place": {
+            "text": "Koh Kong, Cambodia, French Indochina",
+            "links": [
+              {
+                "text": "Koh Kong",
+                "type": "internal",
+                "page": "Koh Kong Province"
+              },
+              {
+                "text": "Cambodia",
+                "type": "internal",
+                "page": "French Protectorate of Cambodia"
+              },
+              {
+                "type": "internal",
+                "page": "French Indochina"
+              }
+            ]
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Tao Toeun ( m. 1975)"
+          },
+          "children": {
+            "text": "Siam\n\nTyhas \n\nKanha"
+          },
+          "profession": {
+            "text": "Politician",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "rank": {
+            "text": "Cambodian_Army_OF-09.svg General",
+            "links": [
+              {
+                "text": "General",
+                "type": "internal",
+                "page": "General officer"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Royal Cambodian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Royal Cambodian Army"
+              }
+            ]
+          },
+          "allegiance": {
+            "text": "🇰🇭 Cambodia",
+            "links": [
+              {
+                "text": "Cambodia",
+                "type": "internal",
+                "page": "cambodia"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "1962–present"
+          },
+          "commands": {
+            "text": "National Committee for Maritime Security"
+          },
+          "battles": {
+            "text": "Cambodian Civil War",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian Civil War"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Banh, whose birth name was \"Tea Sangvan\" later changed to Thai name, Sangvan Hin-kling (สังวาลย์ หินกลิ้ง) and \"Tea Banh\" in last, is of Sino-Thai descent.",
+              "links": [
+                {
+                  "text": "Sino-Thai",
+                  "type": "internal",
+                  "page": "Thai Chinese"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sangvan Hin-kling"
+                ]
+              }
+            },
+            {
+              "text": "His father, a Thai-Chinese, was named Tea Toek (เต็ก; ) and his mother Nou Peng Chenda (หนู เพ่งจินดา; ), was an ethnic Thai."
+            },
+            {
+              "text": "Banh married Tao Toeun (เตือนใจ ธรรมเกษร; ), who is also an ethnic Thai, in 1975."
+            },
+            {
+              "text": "They have three children."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Tek"
+          ],
+          "template": "rtgs"
+        },
+        {
+          "list": [
+            "Nu Phengchinda"
+          ],
+          "template": "rtgs"
+        },
+        {
+          "list": [
+            "Tueanchai Thamma-keson"
+          ],
+          "template": "rtgs"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "🇰🇭 Cambodia:",
+            "links": [
+              {
+                "text": "Cambodia",
+                "type": "internal",
+                "page": "cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM Grand Order of National Merit rib.png Collar of the Grand Order of National Merit",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Grand Order of National Merit"
+              }
+            ]
+          },
+          {
+            "text": "KHM Ordre Royal du Cambodge - Grand Croix BAR.svg Grand Cross of the Royal Order of Cambodia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Royal Order of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM Royal Order Of Sowathara - Grand Cross rib.png Grand Cross of the Royal Order of Sowathara",
+            "links": [
+              {
+                "text": "Royal Order of Sowathara",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM Order of Queen Kossomak - Grand Officer.png Grand Officer of the Royal Order of H.M. The Queen Preah Kossomak Nearirath",
+            "links": [
+              {
+                "text": "Royal Order of H.M. The Queen Preah Kossomak Nearirath",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM Sena Jayaseddh Medal (present) BAR.svg Recipient of the Sena Jayaseddh Medal",
+            "links": [
+              {
+                "text": "Sena Jayaseddh Medal",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM National Defence Medal - gold x2 BAR.svg Recipient of the Medal of National Defense in gold, two stars",
+            "links": [
+              {
+                "text": "Medal of National Defense",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM National Defence Medal - silver x2 BAR.svg Recipient of the Medal of National Defense in silver, two stars",
+            "links": [
+              {
+                "text": "Medal of National Defense",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM National Defence Medal - bronze x2 BAR.svg Recipient of the Medal of National Defense in bronze, two stars",
+            "links": [
+              {
+                "text": "Medal of National Defense",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM Medal of Labour.png Recipient of the Medal of Labour",
+            "links": [
+              {
+                "text": "Medal of Labour",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "KHM National Construction Decoration.png Recipient of the Decoration of National Construction (Twice)",
+            "links": [
+              {
+                "text": "Decoration of National Construction",
+                "type": "internal",
+                "page": "Orders, decorations, and medals of Cambodia"
+              }
+            ]
+          },
+          {
+            "text": "🇹🇭 Thailand:",
+            "links": [
+              {
+                "text": "Thailand",
+                "type": "internal",
+                "page": "thailand"
+              }
+            ]
+          },
+          {
+            "text": "Order_of_the_White_Elephant_-_1st_Class_(Thailand)_ribbon.svg Knight Grand Cross of the Order of the White Elephant",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of the White Elephant"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
