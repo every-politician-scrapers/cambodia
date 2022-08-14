@@ -1,0 +1,72 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Public Works and Transport (Cambodia)",
+        "Ministry of Posts and Telecommunications (Cambodia)"
+      ],
+      "stated_as": "Minister of Transport Minister of Posts and Telecommunications"
+    },
+    "P580": "1982",
+    "P582": "1987"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Defence (Cambodia)"
+      ],
+      "stated_as": "Minister of National Defence"
+    },
+    "P580": "1987",
+    "P1365": {
+      "links": [
+        "Bou Thang"
+      ],
+      "stated_as": "Bou Thang"
+    },
+    "P582": "2004"
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of Cambodia",
+        "Siem Reap Province"
+      ],
+      "stated_as": "Member of Parliament for Siem Reap"
+    },
+    "P580": "1993-06-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of Cambodia"
+      ],
+      "stated_as": "Deputy Prime Minister of Cambodia"
+    },
+    "P580": "2000"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of National Defence (Cambodia)"
+      ],
+      "stated_as": "Minister of National Defence"
+    },
+    "P580": "2006-06-27"
+  },
+  {
+    "office": {
+      "links": [
+        "Cambodian People's Party"
+      ],
+      "stated_as": "Vice President of the Cambodian People's Party"
+    },
+    "P580": "2021-12-24",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Hun Sen (2015)"
+    }
+  }
+]

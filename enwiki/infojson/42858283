@@ -1,0 +1,35 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Economy and Finance (Cambodia)"
+      ],
+      "stated_as": "Minister of Economy and Finance"
+    },
+    "P580": "2013-09-24",
+    "P1365": {
+      "links": [
+        "Keat Chhon"
+      ],
+      "stated_as": "Keat Chhon"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Assembly of Cambodia"
+      ],
+      "stated_as": "Member of the National Assembly"
+    },
+    "P580": "2018-09-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Cambodia"
+      ],
+      "stated_as": "Deputy Prime Minister of Cambodia"
+    },
+    "P580": "2018-09-06"
+  }
+]
