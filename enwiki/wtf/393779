@@ -2505,9 +2505,9 @@
       ],
       "images": [
         {
-          "file": "File:President_Biden_held_the_2022_US-ASEAN_Special_Summit_at_the_White_House.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/President_Biden_held_the_2022_US-ASEAN_Special_Summit_at_the_White_House.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Biden_held_the_2022_US-ASEAN_Special_Summit_at_the_White_House.jpg",
+          "file": "File:P20220512ES-00421-2_(52144156964).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/P20220512ES-00421-2_(52144156964).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/P20220512ES-00421-2_(52144156964).jpg",
           "caption": "Hun Sen and ASEAN leaders with U.S. President Joe Biden at the White House during the U.S.–ASEAN Summit, 13 May 2022",
           "links": []
         },
@@ -3897,6 +3897,190 @@
           "page": "1119",
           "template": "citation",
           "type": "book"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "National Orders:",
+              "formatting": {
+                "bold": [
+                  "National Orders"
+                ]
+              }
+            },
+            {
+              "text": "Foreign Orders:",
+              "formatting": {
+                "bold": [
+                  "Foreign Orders"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "KHM Grand Order of National Merit rib.png Grand Order of National Merit (1996)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Grand Order of National Merit"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Brunei:",
+            "links": [
+              {
+                "text": "Brunei",
+                "type": "internal",
+                "page": "undefined"
+              }
+            ]
+          },
+          {
+            "text": "Sultan's Golden Jubilee Medal (2017).jpg Recipient of the Sultan of Brunei Golden Jubilee Medal (2017)"
+          },
+          {
+            "text": "🇨🇺 Cuba:",
+            "links": [
+              {
+                "text": "Cuba",
+                "type": "internal",
+                "page": "cuba"
+              }
+            ]
+          },
+          {
+            "text": "Ribbon jose marti.png Recipents of the Order of José Martí (1999)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of José Martí"
+              }
+            ]
+          },
+          {
+            "text": "Laos:",
+            "links": [
+              {
+                "text": "Laos",
+                "type": "internal",
+                "page": "undefined"
+              }
+            ]
+          },
+          {
+            "text": "Red ribbon bar - general use.svg Gold Medal of the Nation (2008)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gold Medal of the Nation"
+              }
+            ]
+          },
+          {
+            "text": "🇵🇭 Philippines:",
+            "links": [
+              {
+                "text": "Philippines",
+                "type": "internal",
+                "page": "philippines"
+              }
+            ]
+          },
+          {
+            "text": "PHL Order of Sikatuna - Grand Cross BAR.png Grand Cross (Datu) of the Order of Sikatuna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Sikatuna"
+              }
+            ]
+          },
+          {
+            "text": "🇷🇺 Russia:",
+            "links": [
+              {
+                "text": "Russia",
+                "type": "internal",
+                "page": "russia"
+              }
+            ]
+          },
+          {
+            "text": "Orden of Friendship.png Recipents of the Order of Friendship (2021)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Friendship"
+              }
+            ]
+          },
+          {
+            "text": "🇹🇭 Thailand:",
+            "links": [
+              {
+                "text": "Thailand",
+                "type": "internal",
+                "page": "thailand"
+              }
+            ]
+          },
+          {
+            "text": "Order of the White Elephant - Special Class (Thailand) ribbon.svg Knight Special Grand Cordon of the Order of the White Elephant (2001)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of the White Elephant"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "author": "David Fay",
+          "title": "National Gold Medal",
+          "url": "http://www.indochinamedals.com/lpdr/lp01_national_gold_medal.html",
+          "accessdate": "19 March 2014",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "template": "citation",
