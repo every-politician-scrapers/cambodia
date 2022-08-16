@@ -1392,6 +1392,18 @@
               ]
             },
             {
+              "text": "He was called as secret name Mai Phúc by Vietnamese leaders.",
+              "formatting": {
+                "bold": [
+                  "Mai Phúc"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
               "text": "Following the defeat of the Khmer Rouge regime, Hun Sen was appointed as Deputy Prime Minister and Foreign Minister of the Vietnamese-installed People's Republic of Kampuchea/State of Cambodia (PRK/SOC) in 1979 at age 26.",
               "links": [
                 {
@@ -1416,6 +1428,14 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Means \"forever happiness\"."
+          ],
+          "template": "notetag"
         }
       ],
       "references": [
@@ -4150,16 +4170,29 @@
     },
     {
       "title": "Footnotes",
-      "depth": 0,
+      "depth": 0
+    },
+    {
+      "title": "Notes",
+      "depth": 1,
+      "templates": [
+        {
+          "list": [
+            "4"
+          ],
+          "template": "notefoot"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 1,
       "templates": [
         {
           "list": [
             "2"
           ],
           "template": "reflist"
-        },
-        {
-          "template": "notelist"
         }
       ]
     },
