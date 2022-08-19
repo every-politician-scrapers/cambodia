@@ -262,10 +262,10 @@
               ]
             },
             {
-              "text": "He is currently serving in his sixth term as prime minister in de facto one party rule.",
+              "text": "He is currently serving in his sixth term as prime minister in de facto one-party rule.",
               "links": [
                 {
-                  "text": "one party rule",
+                  "text": "one-party rule",
                   "type": "internal",
                   "page": "One-party state"
                 }
@@ -1435,7 +1435,7 @@
           "list": [
             "Means \"forever happiness\"."
           ],
-          "template": "notetag"
+          "template": "efn"
         }
       ],
       "references": [
@@ -4177,10 +4177,7 @@
       "depth": 1,
       "templates": [
         {
-          "list": [
-            "4"
-          ],
-          "template": "notefoot"
+          "template": "notelist"
         }
       ]
     },
@@ -4542,9 +4539,6 @@
         },
         {
           "template": "cambodianleaders"
-        },
-        {
-          "template": "heads of government of monarchies"
         },
         {
           "template": "current asean leaders"
