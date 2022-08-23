@@ -32,7 +32,7 @@
         {
           "sentences": [
             {
-              "text": "Hun Sen (ហ៊ុន សែន, Hŭn Sên ; born 5 August 1952) is a Cambodian politician and former military commander who has served as the prime minister of Cambodia since 1985.",
+              "text": "Hun Sen (ហ៊ុន សែន, ; born 5 August 1952) is a Cambodian politician and former military commander who has served as the prime minister of Cambodia since 1985.",
               "links": [
                 {
                   "text": "Cambodian",
@@ -432,9 +432,11 @@
           "transcription": "h,ʊ,n,_,s,ɛ,n"
         },
         {
-          "lang": "km",
-          "text": "Hŭn Sên",
-          "template": "transl"
+          "list": [
+            "km",
+            "Hŭn Sên"
+          ],
+          "template": "transliteration"
         },
         {
           "transcription": "hɔn saen",
@@ -458,14 +460,7 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "Samdech Akka Moha Sena Padei Techo",
-            "links": [
-              {
-                "text": "Samdech Akka Moha Sena Padei Techo",
-                "type": "internal",
-                "page": "Samdech"
-              }
-            ]
+            "text": "[[Samdech|Samdech Akka\nMoha Sena Padei Techo]]"
           },
           "name": {
             "text": "Hun Sen"
@@ -884,7 +879,7 @@
             ]
           },
           "battles": {
-            "text": "Cambodian Civil War Cambodian-Vietnamese War",
+            "text": "Cambodian Civil War \nCambodian-Vietnamese War",
             "links": [
               {
                 "type": "internal",
@@ -3043,11 +3038,6 @@
               "text": "Several Australian politicians, most prominently Gareth Evans and Julian Hill, have been highly critical of Sen and his government over human rights issues and have called for changes to Australia–Cambodia relations.",
               "links": [
                 {
-                  "text": "Australian",
-                  "type": "internal",
-                  "page": "Australia"
-                },
-                {
                   "text": "Gareth Evans",
                   "type": "internal",
                   "page": "Gareth Evans (politician)"
@@ -3072,10 +3062,6 @@
                 {
                   "type": "internal",
                   "page": "Myanmar"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hun Sen"
                 }
               ]
             }
@@ -3801,14 +3787,7 @@
               ]
             },
             {
-              "text": "Hun Sen also speaks some English after beginning to learn the language in the 1990s, but usually converses in Khmer through interpreters when giving formal interviews to the English-speaking media.",
-              "links": [
-                {
-                  "text": "English",
-                  "type": "internal",
-                  "page": "English language"
-                }
-              ]
+              "text": "Hun Sen also speaks some English after beginning to learn the language in the 1990s, but usually converses in Khmer through interpreters when giving formal interviews to the English-speaking media."
             }
           ]
         },
@@ -4091,7 +4070,7 @@
           "author": "David Fay",
           "title": "National Gold Medal",
           "url": "http://www.indochinamedals.com/lpdr/lp01_national_gold_medal.html",
-          "accessdate": "19 March 2014",
+          "access-date": "19 March 2014",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -4186,9 +4165,6 @@
       "depth": 1,
       "templates": [
         {
-          "list": [
-            "2"
-          ],
           "template": "reflist"
         }
       ]
