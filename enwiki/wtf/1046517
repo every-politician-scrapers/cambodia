@@ -2223,6 +2223,13 @@
           "links": []
         }
       ],
+      "templates": [
+        {
+          "date": "September 2022",
+          "reason": "Wrong URL here, a duplicate of the one in the ref named asa230052006en",
+          "template": "failed verification"
+        }
+      ],
       "references": [
         {
           "url": "https://www.hrw.org/news/2005/02/06/cambodia-opposition-politicians-arrested-forced-flee",
@@ -2298,15 +2305,6 @@
         },
         {
           "url": "https://www.amnesty.org/en/wp-content/uploads/2021/08/asa230052006en.pdf",
-          "title": "AMNESTY INTERNATIONALPRESS RELEASE -Cambodia: Release of prisoner of conscience Cheam Channy",
-          "publisher": "Amnesty International",
-          "date": "6 February 2006",
-          "access-date": "3 August 2022",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.amnesty.org/en/wp-content/uploads/2021/08/asa230052006en.pdf",
           "title": "Senate of the Phillipines 19th Congress – PRESS RELEASE: Drilon hails granting of pardon to Cambodian opposition leader",
           "publisher": "Senate of the Philippines",
           "date": "9 February 2006",
@@ -2337,6 +2335,15 @@
           "title": "Cambodian journalist released from prison in amnesty",
           "work": "Committee to Protect Journalists",
           "date": "27 April 2020",
+          "access-date": "3 August 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.amnesty.org/en/wp-content/uploads/2021/08/asa230052006en.pdf",
+          "title": "AMNESTY INTERNATIONALPRESS RELEASE -Cambodia: Release of prisoner of conscience Cheam Channy",
+          "publisher": "Amnesty International",
+          "date": "6 February 2006",
           "access-date": "3 August 2022",
           "template": "citation",
           "type": "web"

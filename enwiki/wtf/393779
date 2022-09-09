@@ -383,32 +383,25 @@
           "template": "efn"
         },
         {
-          "title": "See former",
           "list": [
-            "Norodom Sihanouk\n(until 2004)"
-          ],
-          "template": "list collapsed"
-        },
-        {
-          "list": [
-            "Norodom Sihanouk\n(1993)",
-            "Chea Sim\n(1989–1993)",
-            "Heng Samrin\n(until 1989)"
+            "Norodom Sihanouk",
+            "Norodom Sihamoni"
           ],
           "template": "ubl"
         },
         {
           "list": [
-            "Chea Sim\n(since 1989)",
-            "Heng Samrin\n(until 1989)"
+            "Heng Samrin",
+            "Chea Sim",
+            "Norodom Sihanouk"
           ],
           "template": "ubl"
         },
         {
           "list": [
-            "Himself\n(since 1985)",
-            "Chan Sy\n(1982–1984)",
-            "Pen Sovan\n(1981)"
+            "Pen Sovan",
+            "Chan Sy",
+            "Himself"
           ],
           "template": "ubl"
         },
@@ -487,16 +480,15 @@
             "text": "30 November 1998"
           },
           "monarch": {
-            "text": "Norodom Sihamoni\n(2004–present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Norodom Sihamoni"
-              }
-            ]
+            "text": "Norodom Sihanouk\n\nNorodom Sihamoni"
           },
           "predecessor": {
-            "text": "Himself\nas Second Prime Minister"
+            "text": "Himself\nas Second Prime Minister",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "status2": {
             "text": "Second Prime Minister"
@@ -521,7 +513,7 @@
             "text": "30 November 1998"
           },
           "monarch2": {
-            "text": "Norodom Sihanouk\n(since 1993)",
+            "text": "Norodom Sihanouk",
             "links": [
               {
                 "type": "internal",
@@ -539,7 +531,12 @@
             ]
           },
           "successor2": {
-            "text": "Himself\nas sole Prime Minister"
+            "text": "Himself\nas sole Prime Minister",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "term_start3": {
             "text": "14 January 1985"
@@ -548,7 +545,7 @@
             "text": "2 July 1993\nActing from 26 December 1984"
           },
           "president3": {
-            "text": "Norodom Sihanouk\n(1993)\n\nChea Sim\n(1989–1993)\n\nHeng Samrin\n(until 1989)"
+            "text": "Heng Samrin\n\nChea Sim\n\nNorodom Sihanouk"
           },
           "predecessor3": {
             "text": "Chan Sy",
@@ -654,11 +651,13 @@
               }
             ]
           },
-          "president6": {
-            "text": "Chea Sim\n(since 1989)\n\nHeng Samrin\n(until 1989)"
-          },
           "primeminister6": {
-            "text": "Himself"
+            "text": "Himself",
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "term_start6": {
             "text": "1988",
@@ -686,17 +685,8 @@
               }
             ]
           },
-          "president7": {
-            "text": "Heng Samrin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heng Samrin"
-              }
-            ]
-          },
           "primeminister7": {
-            "text": "Himself\n(since 1985)\n\nChan Sy\n(1982–1984)\n\nPen Sovan\n(1981)"
+            "text": "Pen Sovan\n\nChan Sy\n\nHimself"
           },
           "term_start7": {
             "text": "8 January 1979"
