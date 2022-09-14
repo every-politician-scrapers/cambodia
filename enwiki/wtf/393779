@@ -1545,7 +1545,7 @@
       ]
     },
     {
-      "title": "Paris Peace Talks and UNTAC (1991-1993)",
+      "title": "Paris Peace Talks and UNTAC (1991–1993)",
       "depth": 1,
       "paragraphs": [
         {
@@ -1654,7 +1654,7 @@
       ]
     },
     {
-      "title": "Co-premiership (1993-1997)",
+      "title": "Co-premiership (1993–1997)",
       "depth": 1,
       "templates": [
         {
@@ -2818,9 +2818,9 @@
       ],
       "images": [
         {
-          "file": "File:Protected_Area_and_Economic_Land_Concessions.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Protected_Area_and_Economic_Land_Concessions.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Protected_Area_and_Economic_Land_Concessions.jpg",
+          "file": "File:Cambodia_Protected_Area_and_Economic_Land_Concessions.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Cambodia_Protected_Area_and_Economic_Land_Concessions.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Cambodia_Protected_Area_and_Economic_Land_Concessions.jpg",
           "caption": "Deforestation in Cambodia is partly driven by Economic Land Concessions (ELCs) within protected areas.",
           "links": []
         }
@@ -3000,19 +3000,16 @@
               "text": "In 2019, as opposition party leaders prepared to return to the country, Sen ordered the military to \"attack them wherever you see them—you don't need arrest warrants at all\" while speaking at a graduation ceremony for exceptional high school students in Phnom Penh."
             },
             {
-              "text": "He also threatened the European Union \"If you want the opposition dead, do it. If you want it alive, don't do it and come and talk\" if that organization withdraws a commercial deal,although they did not give in."
+              "text": "He also threatened the European Union if they withdrew a commercial deal: \"If you want the opposition dead, do it. If you want it alive, don't do it and come and talk\", although they did not give in."
             },
             {
-              "text": "\"We didn't pursue you because we didn't want to kill you at the time,\" Hun Sen said to Sam Rainsy.",
+              "text": "\"We didn't pursue you because we didn't want to kill you at the time,\" Hun Sen said to opposition leader Sam Rainsy, although such death threats have not been implemented.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Sam Rainsy"
                 }
               ]
-            },
-            {
-              "text": "Although such death threats have not been implemented."
             }
           ]
         },
@@ -3727,7 +3724,7 @@
               ]
             },
             {
-              "text": "They have 6 children: Kamsot (deceased), Manet, Mana, Manith, Mani and Mali.",
+              "text": "They have 6 children, including one adopted daughter: Kamsot (deceased), Manet, Mana, Manith, Mani and Mali.",
               "links": [
                 {
                   "text": "Manet",
@@ -3747,7 +3744,7 @@
               ]
             },
             {
-              "text": "The couple also adopted a daughter in 1988, but they legally disowned her in 2007 for being lesbian."
+              "text": "The couple also adopted a daughter (which is not named in news media sources) in 1988, but they legally disowned her in 2007 for being lesbian."
             },
             {
               "text": "In 2010, Manet was promoted Major General in the Royal Cambodian Armed Forces (RCAF) and became the Deputy Commander of the Prime Minister's Body Guard headquarters."
@@ -3756,7 +3753,14 @@
               "text": "All three of Hun Sen's sons play big roles in his government."
             },
             {
-              "text": "His older brother, Hun Neng, is a former governor of Kampong Cham and currently a member of parliament."
+              "text": "His older brother, Hun Neng, is a former governor of Kampong Cham and currently a member of parliament.",
+              "links": [
+                {
+                  "text": "Kampong Cham",
+                  "type": "internal",
+                  "page": "Kampong Cham province"
+                }
+              ]
             }
           ]
         },
@@ -3831,10 +3835,6 @@
       ],
       "templates": [
         {
-          "date": "August 2021",
-          "template": "who"
-        },
-        {
           "date": "September 2021",
           "template": "verification needed"
         }
@@ -3846,7 +3846,7 @@
           "title": "Cambodia PM slammed for disowning lesbian daughter",
           "language": "en",
           "work": "Reuters",
-          "url": "https://uk.reuters.com/article/us-cambodia-lesbian-idUSBKK11415620071031",
+          "url": "https://www.reuters.com/article/us-cambodia-lesbian-idUSBKK11415620071031",
           "access-date": "2020-12-09",
           "template": "citation",
           "type": "news"
