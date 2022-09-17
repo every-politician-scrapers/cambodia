@@ -8,6 +8,7 @@
     "21st-century Cambodian politicians",
     "People from Phnom Penh",
     "Cambodian People's Party politicians",
+    "Deputy Prime Ministers of Cambodia",
     "Government ministers of Cambodia",
     "Members of the National Assembly (Cambodia)",
     "Recipients of the Legion of Honour",
@@ -23,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Prak Sokhonn (ប្រាក់ សុខុន; born 3 May 1954) is a Cambodian politician, diplomat and journalist, currently serving in the Cabinet of Cambodia as Minister of Foreign Affairs of Cambodia since 2016, and deputy prime minister since 2018.",
+              "text": "Prak Sokhonn (ប្រាក់ សុខុន; born 3 May 1954) is a Cambodian politician, diplomat and journalist, currently serving in the Cabinet of Cambodia as Minister of Foreign Affairs of Cambodia since 2016, and Deputy Prime Minister of Cambodia since 2018.",
               "links": [
                 {
                   "text": "Cambodian",
@@ -38,6 +39,10 @@
                   "text": "Minister of Foreign Affairs of Cambodia",
                   "type": "internal",
                   "page": "Minister for Foreign Affairs (Cambodia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister of Cambodia"
                 }
               ],
               "formatting": {

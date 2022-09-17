@@ -6,6 +6,7 @@
     "21st-century Cambodian politicians",
     "Living people",
     "Government ministers of Cambodia",
+    "Deputy Prime Ministers of Cambodia",
     "Finance ministers of Cambodia",
     "Cambodian People's Party politicians",
     "Moscow State University alumni",
@@ -180,9 +181,8 @@
             "text": "Deputy Prime Minister of Cambodia",
             "links": [
               {
-                "text": "Deputy Prime Minister of Cambodia",
                 "type": "internal",
-                "page": "Prime Minister of Cambodia"
+                "page": "Deputy Prime Minister of Cambodia"
               }
             ]
           },
