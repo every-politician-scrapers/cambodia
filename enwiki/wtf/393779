@@ -482,6 +482,47 @@
           "monarch": {
             "text": "Norodom Sihanouk\n\nNorodom Sihamoni"
           },
+          "deputy": {
+            "text": "Sar Kheng\nHor Namhong\nTea Banh\nBin Chhin\nYim Chhaily\nMen Sam An\nKe Kimyan\nPrak Sokhonn\nAun Pornmoniroth\nChea Sophara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sar Kheng"
+              },
+              {
+                "type": "internal",
+                "page": "Hor Namhong"
+              },
+              {
+                "type": "internal",
+                "page": "Tea Banh"
+              },
+              {
+                "type": "internal",
+                "page": "Bin Chhin"
+              },
+              {
+                "type": "internal",
+                "page": "Yim Chhaily"
+              },
+              {
+                "type": "internal",
+                "page": "Men Sam An"
+              },
+              {
+                "type": "internal",
+                "page": "Prak Sokhonn"
+              },
+              {
+                "type": "internal",
+                "page": "Aun Pornmoniroth"
+              },
+              {
+                "type": "internal",
+                "page": "Chea Sophara"
+              }
+            ]
+          },
           "predecessor": {
             "text": "Himself\nas Second Prime Minister",
             "formatting": {
@@ -521,6 +562,15 @@
               }
             ]
           },
+          "deputy2": {
+            "text": "Sar Kheng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sar Kheng"
+              }
+            ]
+          },
           "predecessor2": {
             "text": "Norodom Ranariddh\nas sole Prime Minister",
             "links": [
@@ -546,6 +596,28 @@
           },
           "president3": {
             "text": "Heng Samrin\n\nChea Sim\n\nNorodom Sihanouk"
+          },
+          "deputy3": {
+            "text": "Himself\nBou Thang\nChea Soth\nSar Kheng",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bou Thang"
+              },
+              {
+                "type": "internal",
+                "page": "Chea Soth"
+              },
+              {
+                "type": "internal",
+                "page": "Sar Kheng"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
           },
           "predecessor3": {
             "text": "Chan Sy",
@@ -711,6 +783,51 @@
                 "page": "Kong Korm"
               }
             ]
+          },
+          "office8": {
+            "text": "Deputy Prime Minister of the People's Republic of Kampuchea",
+            "links": [
+              {
+                "text": "Deputy Prime Minister of the People's Republic of Kampuchea",
+                "type": "internal",
+                "page": "Deputy Prime Minister of Cambodia"
+              }
+            ]
+          },
+          "president8": {
+            "text": "Heng Samrin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heng Samrin"
+              }
+            ]
+          },
+          "primeminister8": {
+            "text": "Pen Sovann\nChan Sy\nHimself",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pen Sovann"
+              },
+              {
+                "type": "internal",
+                "page": "Chan Sy"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Himself"
+              ]
+            }
+          },
+          "term_start8": {
+            "text": "1981",
+            "number": 1981
+          },
+          "term_end8": {
+            "text": "1985",
+            "number": 1985
           },
           "birth_name": {
             "text": "Hun Bunal"

@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Tea Banh  (ទៀ បាញ់, ; born 5 November 1945) is a Cambodian politician who is the current Deputy Prime Minister and Minister for National Defence of Cambodia.",
+              "text": "Tea Banh  (ទៀ បាញ់ ; born 5 November 1945) is a Cambodian politician who is the current Deputy Prime Minister and Minister for National Defence of Cambodia.",
               "links": [
                 {
                   "type": "internal",
@@ -227,8 +227,7 @@
             ]
           },
           "term_start2": {
-            "text": "2000",
-            "number": 2000
+            "text": "16 July 2004"
           },
           "office3": {
             "text": "Vice President of the Cambodian People's Party",
