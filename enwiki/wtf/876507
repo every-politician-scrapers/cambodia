@@ -108,78 +108,6 @@
             "text": "Hor Namhong 2015 (cropped).jpg"
           },
           "office": {
-            "text": "Minister of Foreign Affairs and International Cooperation",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs and International Cooperation",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs and International Cooperation (Cambodia)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "30 November 1998"
-          },
-          "term_end": {
-            "text": "4 April 2016"
-          },
-          "primeminister": {
-            "text": "Hun Sen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hun Sen"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ung Huot",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ung Huot"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Prak Sokhonn",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Prak Sokhonn"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1990",
-            "number": 1990
-          },
-          "term_end1": {
-            "text": "1993",
-            "number": 1993
-          },
-          "primeminister1": {
-            "text": "Hun Sen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hun Sen"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Hun Sen"
-          },
-          "successor1": {
-            "text": "Norodom Sirivudh",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Norodom Sirivudh"
-              }
-            ]
-          },
-          "office3": {
             "text": "Deputy Prime Minister of Cambodia",
             "links": [
               {
@@ -188,7 +116,7 @@
               }
             ]
           },
-          "monarch3": {
+          "monarch": {
             "text": "Norodom Sihanouk Norodom Sihamoni",
             "links": [
               {
@@ -201,10 +129,10 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start": {
             "text": "16 July 2004"
           },
-          "primeminister3": {
+          "primeminister": {
             "text": "Hun Sen",
             "links": [
               {
@@ -213,7 +141,85 @@
               }
             ]
           },
-          "office5": {
+          "office1": {
+            "text": "Minister of Foreign Affairs and International Cooperation",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs and International Cooperation",
+                "type": "internal",
+                "page": "Ministry of Foreign Affairs and International Cooperation (Cambodia)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 November 1998"
+          },
+          "term_end1": {
+            "text": "4 April 2016"
+          },
+          "primeminister1": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Ung Huot",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ung Huot"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Prak Sokhonn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prak Sokhonn"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1990",
+            "number": 1990
+          },
+          "term_end2": {
+            "text": "1993",
+            "number": 1993
+          },
+          "primeminister2": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Norodom Sirivudh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norodom Sirivudh"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of Parliament for Kampong Cham",
             "links": [
               {
@@ -228,10 +234,10 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start3": {
             "text": "25 November 1998"
           },
-          "term_end5": {
+          "term_end3": {
             "text": "29 July 2018"
           },
           "birth_date": {
