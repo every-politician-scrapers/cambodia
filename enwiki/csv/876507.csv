@@ -1,6 +1,6 @@
 who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-876507,Ministry of Foreign Affairs and International Cooperation (Cambodia),Minister of Foreign Affairs and International Cooperation,1998-11-30,2016-04-04,Ung Huot,Ung Huot,Q23771428,Prak Sokhonn,0
-876507,,,1990,1993,,Hun Sen,Norodom Sirivudh,Norodom Sirivudh,1
-876507,Deputy Prime Minister of Cambodia,Deputy Prime Minister of Cambodia,2004-07-16,,,,,,2
+876507,Deputy Prime Minister of Cambodia,Deputy Prime Minister of Cambodia,2004-07-16,,,,,,0
+876507,Ministry of Foreign Affairs and International Cooperation (Cambodia),Minister of Foreign Affairs and International Cooperation,1998-11-30,2016-04-04,Ung Huot,Ung Huot,Q23771428,Prak Sokhonn,1
+876507,,,1990,1993,Q57788,Hun Sen,Norodom Sirivudh,Norodom Sirivudh,2
 876507,Parliament of Cambodia,Member of Parliament for Kampong Cham,1998-11-25,2018-07-29,,,,,3
 876507,Kampong Cham (National Assembly constituency),Member of Parliament for Kampong Cham,1998-11-25,2018-07-29,,,,,4
