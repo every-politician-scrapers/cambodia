@@ -77,21 +77,6 @@
                   "page": "You Hockry"
                 }
               ]
-            },
-            {
-              "text": "On June 14, 2015, King Norodom Sihamoni awarded Kheng the honorary title of \"Samdech\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Norodom Sihamoni"
-                }
-              ]
-            },
-            {
-              "text": "His official title is \"Samdech Kralahom Sar Kheng\" (សម្ដេចក្រឡាហោម ស ខេង)."
-            },
-            {
-              "text": "Kheng is married to Nhem Sakhan with whom he has three children."
             }
           ]
         }
@@ -356,12 +341,6 @@
           "type": "web"
         },
         {
-          "url": "http://www.phnompenhpost.com/national/samdech-titles-given-chhum-and-kheng",
-          "title": "'Samdech' titles given to Chhum and Kheng",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "ឧបនាយករដ្ឋមន្ត្រី ស ខេង ធ្វើពិធីសូត្រនិមន្តបង្សុកូល និងរាប់បាត្រព្រះសង្ឃ ក្នុងឱកាសចូលឆ្នាំថ្មី",
           "url": "http://www.ncdd.gov.kh/km/media-center/media-coverage/online-media/1008-traditional-khmer-ceremony-for-khmer-new-year-at-moi",
           "website": "The National Committee for Sub-National Democratic Development",
@@ -373,52 +352,84 @@
       ]
     },
     {
-      "title": "Background",
-      "depth": 0,
+      "title": "Biography",
+      "depth": 0
+    },
+    {
+      "title": "A Cambodian child in the Sangkum",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Kheng is a long-time member of the ruling Cambodian People's Party, which, according to international observers, has dominated politics and held on to power in Cambodia since 1979 through corruption, including extralegal killings, election fraud, control of the media, and at times, open violence such as the 1997 coup and 2015 intimidation of the opposition CNRP deputy leader, Kem Sokha.",
+              "text": "Sar Kheng was born on January 15, 1951 during the Sangkum in Ang Daung Saat Village, Krabau Township, Kamchay Mear District, Prey Veng Province.",
               "links": [
                 {
-                  "text": "1997 coup",
                   "type": "internal",
-                  "page": "1997 clashes in Cambodia"
-                },
-                {
-                  "text": "CNRP",
-                  "type": "internal",
-                  "page": "Cambodia National Rescue Party"
+                  "page": "Sangkum"
                 },
                 {
                   "type": "internal",
-                  "page": "Kem Sokha"
+                  "page": "Kamchay Mear District"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prey Veng Province"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "Sangkum"
+                ]
+              }
             },
             {
-              "text": "Within the CPP, Kheng is its Vice President and a standing member of its Central Committee, the body responsible for all core decision making."
-            },
+              "text": "He was born into a peasant family."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Jennar",
+          "first": "Raoul Marc",
+          "url": "https://books.google.com.kh/books?id=bnJuAAAAMAAJ&q=sar+kheng+les+cles+du+cambodge&dq=sar+kheng+les+cles+du+cambodge&hl=km&sa=X&ved=2ahUKEwjvqKfYjbf6AhWIAN4KHbu_DrQQ6AF6BAgCEAI",
+          "title": "Les clés du Cambodge",
+          "date": "1995",
+          "publisher": "Maisonneuve et Larose",
+          "isbn": "978-2-7068-1150-0",
+          "pages": "252",
+          "language": "fr",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "From guerilla warfare to leader of the Kampuchea",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
             {
-              "text": "Kheng is also brother-in-law to former Khmer Rouge commander Chea Sim, who was CPP president until his death in 2015.",
+              "text": "Along with Heng Samrin, Chea Sim, and Hun Sen, Sar Kheng was among the Democratic Kampuchea cadres of the Eastern Zone.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Khmer Rouge"
+                  "page": "Heng Samrin"
                 },
                 {
                   "type": "internal",
                   "page": "Chea Sim"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hun Sen"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Kheng and other current leaders of Cambodia, including Hun Sen, Tea Banh, Heng Samrin and Chea Sim, were senior cadre leaders of the Khmer Rouge in the Cambodian Civil War and the resulting Democratic Kampuchea.",
+              "text": "However, after commander of the Eastern Zone Sar Phim was assassinated, Sar Kheng, Hun Sen, and other leaders who refused the purges of the Cambodian genocide went into the opposition against the Khmers Rouges.",
               "links": [
                 {
                   "type": "internal",
@@ -426,24 +437,18 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Tea Banh"
-                },
-                {
-                  "type": "internal",
-                  "page": "Heng Samrin"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cambodian Civil War"
-                },
-                {
-                  "type": "internal",
-                  "page": "Democratic Kampuchea"
+                  "page": "Cambodian genocide"
                 }
               ]
             },
             {
-              "text": "During the 1980s, Kheng, along with his brother-in-law Chea Sim, were identified as \"hard-liners\" in the People's Republic of Kampuchea government.",
+              "text": "The ties and friendships made at that time have lasted and still continue to determine Cambodian politics."
+            },
+            {
+              "text": "Since they fled to Vietnam, they have been accused of being pro-Vietnamese."
+            },
+            {
+              "text": "After the Vietnamese troops entered Cambodia and pushed back the Khmers Rouge to the North West provinces, Kheng, along with his brother-in-law Chea Sim, took on leadership positions in national security and were identified as \"hard-liners\" in the People's Republic of Kampuchea government, fighting to eradicate the Khmer Rouge from Cambodia.",
               "links": [
                 {
                   "type": "internal",
@@ -473,113 +478,67 @@
                   "page": "Brad Adams"
                 }
               ]
-            },
-            {
-              "text": "By the late 1990s, however, Kheng's name was often floated by Western observers as a possible party \"reformer\"."
             }
           ]
         }
       ],
       "references": [
         {
-          "url": "http://www.highbeam.com/doc/1P2-8013822.html",
-          "archive-url": "https://web.archive.org/web/20140611063352/http://www.highbeam.com/doc/1P2-8013822.html",
-          "url-status": "dead",
-          "archive-date": "11 June 2014",
-          "title": "Cambodia is Said to Torture Prisoners",
-          "publisher": "HighBeam Research",
-          "newspaper": "The Boston Globe",
-          "date": "4 June 1987",
-          "accessdate": "4 November 2015",
+          "last": "François",
+          "first": "Im",
+          "url": "https://books.google.com.kh/books?id=bcwWAQAAIAAJ&q=sar+kheng+%22prey+veng%22&dq=sar+kheng+%22prey+veng%22&hl=km&sa=X&ved=2ahUKEwj1noXAj7f6AhXYnFYBHZqgBvc4MhDoAXoECAoQAg",
+          "title": "La question cambodgienne dans les relations internationales de 1979 à 1993",
+          "date": "2005",
+          "publisher": "ANRT. Atelier national de reproduction des thèses de Lille",
+          "isbn": "978-2-284-04906-7",
+          "pages": "50",
+          "language": "fr",
           "template": "citation",
-          "type": "web"
+          "type": "book"
         },
         {
-          "title": "Cambodia Criticizes Amnesty International Report",
-          "url": "http://www.apnewsarchive.com/1987/Cambodia-Criticizes-Amnesty-International-Report/id-619e25a700c5ec2e46e3dfc2438227bb",
-          "accessdate": "4 November 2015",
-          "agency": "Associated Press",
-          "date": "6 June 1987",
+          "last": "Oeur",
+          "first": "U. Sam",
+          "url": "https://books.google.com.kh/books?id=HltuAAAAMAAJ&q=%22sar+phim%22&dq=%22sar+phim%22&hl=km&sa=X&ved=2ahUKEwj7_8b5r7f6AhXvqFYBHWYqD_kQ6AF6BAgIEAI",
+          "title": "Crossing Three Wildernesses: A Memoir",
+          "last2": "McCullough",
+          "first2": "Ken",
+          "date": "2005",
+          "publisher": "Coffee House Press",
+          "isbn": "978-1-56689-167-7",
+          "pages": "207",
+          "language": "en",
           "template": "citation",
-          "type": "news"
+          "type": "book"
         },
         {
-          "url": "http://www.cambodiadaily.com/elections/oppositions-demand-for-tv-access-crucial-futile-44423/",
-          "title": "Opposition's Demand for TV Access Crucial, Futile – The Cambodia Daily",
-          "author": "Alex Willemyns",
-          "accessdate": "4 November 2015",
-          "work": "The Cambodia Daily",
+          "last": "Vandy",
+          "first": "Kaonn",
+          "url": "https://books.google.com.kh/books?id=w4NuAAAAMAAJ&q=%22sar+phim%22&dq=%22sar+phim%22&hl=km&sa=X&ved=2ahUKEwj7_8b5r7f6AhXvqFYBHWYqD_kQ6AF6BAgEEAI",
+          "title": "Cambodge 1940-1991, ou, La politique sans les Cambodgiens: essai",
+          "date": "1993",
+          "publisher": "L'Harmattan",
+          "isbn": "978-2-7384-1925-5",
+          "pages": "139",
+          "language": "fr",
           "template": "citation",
-          "type": "web"
+          "type": "book"
         },
         {
-          "last1": "Yeang",
-          "first1": "Socheametta",
-          "title": "លោក ស ខេង និងលោក សាយ ឈុំ ទទួលគោរមងារជា \"សម្ដេច\"",
-          "url": "http://www.rfa.org/khmer/news/politics/2cpp-high-ranking-officials-received-new-title-as-samdach-06142015023250.html",
-          "accessdate": "8 November 2015",
-          "work": "VOA Khmer",
-          "date": "14 June 2015",
-          "language": "Khmer",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Johnson",
-          "first1": "Elizabeth",
-          "title": "Corruption, Violence and Gender: A critical look at police behaviour and a path to reform in Cambodia",
-          "journal": "International Political Science Association",
-          "date": "2014",
-          "pages": "19–20",
-          "url": "http://kh.boell.org/sites/default/files/hbs_broschure_cvg_a5_rz-klein.pdf",
-          "accessdate": "4 November 2015",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "last1": "Heder",
-          "first1": "Steve",
-          "title": "Cambodia: Capitalist Transformation by Neither Liberal Democracy Nor Dictatorship",
-          "journal": "Southeast Asian Affairs",
-          "date": "2015",
-          "volume": "2012",
-          "issue": "1",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "title": "CAMBODIA: POST ELECTIONS AND U.S. POLICY OPTIONS",
-          "url": "http://www.gpo.gov/fdsys/pkg/CHRG-105shrg52952/html/CHRG-105shrg52952.htm",
-          "website": "1998 Senate Hearing 105–846 (from the U.S. Government Printing Office)",
-          "publisher": "Government of the United States",
-          "accessdate": "8 November 2015",
-          "template": "citation",
-          "type": "web"
-        },
-        {
+          "date": "8 June 2015",
           "title": "Cambodia: Chea Sim Death Shows Failings of Khmer Rouge Court",
           "url": "https://www.hrw.org/news/2015/06/08/cambodia-chea-sim-death-shows-failings-khmer-rouge-court",
-          "website": "Human Rights Watch",
-          "date": "8 June 2015",
           "accessdate": "9 June 2015",
+          "website": "Human Rights Watch",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "url": "http://www.phnompenhpost.com/national/sokha-stripped-national-assembly-vice-presidency",
-          "title": "Sokha stripped of National Assembly vice presidency",
-          "work": "The Phnom Penh Post",
-          "date": "30 October 2015",
-          "accessdate": "4 November 2015",
-          "template": "citation",
-          "type": "news"
         },
         {
           "last1": "Eng",
           "first1": "Peter",
+          "date": "1998",
           "title": "Cambodian democracy: In a bleak landscape, strong signs of hope",
           "journal": "Washington Quarterly",
-          "date": "1998",
           "volume": "21",
           "issue": "3",
           "pages": "71–91",
@@ -590,8 +549,8 @@
       ]
     },
     {
-      "title": "Minister of the Interior",
-      "depth": 0,
+      "title": "Coup after coup towards democracy after the return of the monarchy",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -629,34 +588,65 @@
               "text": "As a result of this arrangement, each party appointed members to \"share\" higher offices."
             },
             {
-              "text": "Kheng and FUNCINPEC member You Hockry were appointed as co-Ministers of the Interior."
-            },
-            {
-              "text": "This arrangement lasted until the Senate elections of 2006, when FUNCINPEC, which lost many seats while Ranariddh left to form his own party, dissolved the coalition and allied with Sam Rainsy's opposition movement.",
-              "links": [
-                {
-                  "text": "own party",
-                  "type": "internal",
-                  "page": "Norodom Ranariddh Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sam Rainsy"
-                }
-              ]
-            },
-            {
-              "text": "You Hockry, who chose to follow Ranariddh, was dismissed and Prince Norodom Sirivudh was made co-minister with Kheng."
-            },
-            {
-              "text": "However, Sirivudh was soon also dismissed, leaving Kheng as the sole Minister of the Interior."
+              "text": "Within the CPP, Kheng is its Vice President and a standing member of its Central Committee, the body responsible for all core decision making."
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Politik (Politics)",
+          "url": "http://www.welt-auf-einen-blick.de/politik/exekutive.php",
+          "accessdate": "29 November 2015",
+          "website": "der Welt auf einen Blick (World at a Glance)",
+          "language": "German",
+          "template": "citation",
+          "type": "web"
         },
+        {
+          "author": "Mehta, Harish C.",
+          "title": "Warrior Prince: Norodom Ranariddh, Son of King Sihanouk of Cambodia",
+          "publisher": "Graham Brash",
+          "year": "2001",
+          "isbn": "9812180869",
+          "location": "Singapore",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last1": "Yeang",
+          "first1": "Socheametta",
+          "date": "14 June 2015",
+          "title": "លោក ស ខេង និងលោក សាយ ឈុំ ទទួលគោរមងារជា \"សម្ដេច\"",
+          "language": "Khmer",
+          "work": "VOA Khmer",
+          "url": "http://www.rfa.org/khmer/news/politics/2cpp-high-ranking-officials-received-new-title-as-samdach-06142015023250.html",
+          "accessdate": "8 November 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Johnson",
+          "first1": "Elizabeth",
+          "date": "2014",
+          "title": "Corruption, Violence and Gender: A critical look at police behaviour and a path to reform in Cambodia",
+          "url": "http://kh.boell.org/sites/default/files/hbs_broschure_cvg_a5_rz-klein.pdf",
+          "journal": "International Political Science Association",
+          "pages": "19–20",
+          "accessdate": "4 November 2015",
+          "template": "citation",
+          "type": "journal"
+        }
+      ]
+    },
+    {
+      "title": "= 1994 coup: surviving the failed attempt of Chakrapong and Sin Song",
+      "depth": 3,
+      "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Throughout this period, a schism slowly developed in the CPP with Hun Sen and his supporters who would hold on to power at all costs on one side and the more moderate Kheng, Chea Sim and Heng Samrin on the other."
+              "text": "=A schism slowly developed in the CPP with Hun Sen and his supporters who would hold on to power at all costs on one side and the more moderate Kheng, Chea Sim and Heng Samrin on the other."
             },
             {
               "text": "Hun Sen, who had control and support of the military and National Police emerged as the undisputed leader.",
@@ -678,6 +668,61 @@
               ]
             },
             {
+              "text": "Sar Kheng was particularly opposed to the tactics behind the coup as they only reinforced the political position of the Khmer Rouge by perpetuating political instability in Cambodia."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Um",
+          "first1": "Khatharya",
+          "date": "1995",
+          "title": "Cambodia in 1994: the year of transition",
+          "journal": "Asian Survey",
+          "volume": "35",
+          "issue": "1",
+          "pages": "76–83",
+          "doi": "10.2307/2645133",
+          "jstor": "2645133",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "last": "Widyono",
+          "first": "Benny",
+          "url": "https://books.google.com.kh/books?id=jR9tAAAAQBAJ&pg=PA173&dq=sar+kheng+%22prey+veng%22&hl=km&sa=X&ved=2ahUKEwjf4Mjxjrf6AhV2qlYBHZr3DfYQ6AF6BAgKEAI#v=onepage&q=sar%20kheng%20&f=false",
+          "title": "Dancing in Shadows: Sihanouk, the Khmer Rouge, and the United Nations in Cambodia",
+          "date": "2007-10-23",
+          "publisher": "Rowman & Littlefield Publishers",
+          "isbn": "978-0-7425-7618-6",
+          "pages": "227",
+          "language": "en",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last1": "Guo",
+          "first1": "Sujian",
+          "url": "https://books.google.com/books?id=7A8ep7V7MvkC&q=sar+kheng+1989&pg=PA70",
+          "title": "The Political Economy of Asian Transition from Communism",
+          "date": "2006",
+          "publisher": "Ashgate Publishing, Ltd.",
+          "isbn": "0754647358",
+          "page": "70",
+          "accessdate": "8 November 2015",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "1997 coup: refusing a violent response",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
               "text": "Three years later, while planning the 1997 coup to oust his popular co-Prime Minister Prince Norodom Ranariddh, Hun Sen personally confronted Kheng to ensure his loyalty and support for the use of force.",
               "links": [
                 {
@@ -686,6 +731,9 @@
                   "page": "1997 clashes in Cambodia"
                 }
               ]
+            },
+            {
+              "text": "Sar Kheng warned Hun Sen against the use of violence and said that he would refuse to take part in a coup."
             },
             {
               "text": "Further, Kheng could do nothing to reign in Hok Lundy, the head of the National Police force and close confidant of Hun Sen, who was accused of crimes and abuses of power ranging from human trafficking and drug smuggling to the murder of political opponents even though Lundy was under the authority of the Interior Ministry.",
@@ -701,18 +749,100 @@
         {
           "sentences": [
             {
-              "text": "Kheng continues to attempt to be a mediating force in Cambodia politics."
+              "text": "By the late 1990s, Kheng's name was often floated by Western observers as a possible party \"reformer\"."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "1997 Cambodian coup d'état"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "last1": "Peou",
+          "first1": "Sorpong",
+          "date": "1998",
+          "title": "Hun Sen's Pre-emptive Coup: Causes and Consequences",
+          "journal": "Southeast Asian Affairs",
+          "pages": "86–102",
+          "doi": "10.1355/SEAA98G",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "last": "Peou",
+          "first": "Sorpong",
+          "url": "https://books.google.com.kh/books?id=OWtKpRaeCWUC&pg=PA302&dq=sar+kheng+%22prey+veng%22&hl=km&sa=X&ved=2ahUKEwjf4Mjxjrf6AhV2qlYBHZr3DfYQ6AF6BAgJEAI#v=onepage&q=sar%20kheng%20%22prey%20veng%22&f=false",
+          "title": "Intervention & Change in Cambodia: Towards Democracy?",
+          "date": "2000",
+          "publisher": "Institute of Southeast Asian",
+          "pages": "302",
+          "language": "en",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "CAMBODIA: Revelations of former police chief must be followed with investigations and suspensions",
+          "url": "http://www.humanrights.asia/news/ahrc-news/AS-202-2006",
+          "accessdate": "8 November 2015",
+          "publisher": "Asian Human Rights Commission",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Smith",
+          "first1": "R. Jeffrey",
+          "date": "18 April 2007",
+          "title": "Controversial Cambodian to Visit U.S",
+          "newspaper": "The Washington Post",
+          "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/04/17/AR2007041701771.html?nav=rss_nation/special",
+          "accessdate": "8 November 2015",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Growing stronger after the loss of the FUNCINPEC",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since 1992, Kheng and FUNCINPEC member You Hockry were ruling as co-Ministers of the Interior."
             },
             {
-              "text": "After the October 2015 attacks on opposition CNRP lawmakers by pro-CPP demonstrators, Kheng conducted informal meetings with CNRP leader Sam Rainsy in an attempt to \"restore a working relationship\" between the two parties and quell the tension.",
+              "text": "This arrangement lasted until the Senate elections of 2006, when FUNCINPEC, which lost many seats while Ranariddh left to form his own party, dissolved the coalition and allied with Sam Rainsy's opposition movement.",
               "links": [
                 {
-                  "text": "CNRP",
+                  "text": "own party",
                   "type": "internal",
-                  "page": "Cambodian National Rescue Party"
+                  "page": "Norodom Ranariddh Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sam Rainsy"
                 }
               ]
             },
+            {
+              "text": "You Hockry, who chose to follow Ranariddh, was dismissed and Prince Norodom Sirivudh was made co-minister with Kheng."
+            },
+            {
+              "text": "However, Sirivudh was soon also dismissed, leaving Kheng as the sole Minister of the Interior."
+            },
+            {
+              "text": "Since this loss, Sar Kheng has been able to grow stronger and rein in any serious political opposition."
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "In September 2015, he warned the authorities of Sihanoukville whom he suspected of taking bribes in return for allowing illegal fishing and smuggling activities off the coast.",
               "links": [
@@ -727,9 +857,130 @@
                   "page": "illegal, unreported and unregulated fishing"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After Sar Kheng downturned offers of inclusion by the Cambodia National Reform Party in 2017, Sam Rainsy directed \"revenge claims\" against Sar Kheng."
             },
             {
-              "text": "Also in September, Kheng announced the formation of a seven-person police commission to investigate the 2013 death threats made by CPP Interior Ministry official Lieutenant Colonel Pheng Vannak against CNRP deputy leader Kem Sokha.",
+              "text": "In 2019, Sar Kheng sued Sam Rainsy for his allegations that he had been colluding with Dy Vichea against Hun Sen, accusations which he considered \"fake news and incitements\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sam Rainsy"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "author": "Widyono, Benny",
+          "title": "Dancing in Shadows: Sihanouk, the Khmer Rouge, and the United Nations in Cambodia",
+          "publisher": "Rowman & Littlefield",
+          "year": "2008",
+          "isbn": "978-0742555532",
+          "location": "Lanham, Maryland, United States of America",
+          "page": "277",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last1": "Chhay",
+          "first1": "Channyda",
+          "date": "8 September 2015",
+          "title": "Kheng warns brass on coast",
+          "work": "The Phnom Penh Post",
+          "url": "http://www.phnompenhpost.com/national/kheng-warns-brass-coast",
+          "accessdate": "8 November 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Kijewski",
+          "first": "Leonie",
+          "last2": "Koemsoeun",
+          "first2": "Soth",
+          "title": "Sar Kheng downs offer of inclusion into CNRP",
+          "url": "https://www.phnompenhpost.com/national/sar-kheng-downs-offer-inclusion-cnrp",
+          "access-date": "2022-09-28",
+          "website": "Phnom Penh Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Chheng",
+          "first": "Niem",
+          "date": "2019-07-08",
+          "title": "Sar Kheng sues Rainsy for $1M over ‘revenge’ claims",
+          "url": "https://www.phnompenhpost.com/national-politics/sar-kheng-sues-rainsy-1m-over-revenge-claims",
+          "access-date": "2022-09-28",
+          "website": "Phnom Penh Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Chheng",
+          "first": "Niem",
+          "date": "2019-07-09",
+          "title": "Sar Kheng: Lawsuit is defence of dignity, morality and virtue",
+          "url": "https://www.phnompenhpost.com/national-politics/sar-kheng-lawsuit-defence-dignity-morality-and-virtue",
+          "access-date": "2022-09-28",
+          "website": "Phnom Penh Post",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Politics",
+      "depth": 0
+    },
+    {
+      "title": "Orkun santheipheap: balancing public order and personal freedom",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since coming to power in 1992, Minister of Interior Sar Kheng has overseen the transition to democracy."
+            },
+            {
+              "text": "While some have applauded the longest period of political stability since the Cambodian Civil War and Kheng's efforts to fight against corruption and drug trafficking, others have been critical of the suppression of political opponents such as CNRP deputy leader, Kem Sokha.",
+              "links": [
+                {
+                  "text": "corruption",
+                  "type": "internal",
+                  "page": "Corruption in Cambodia"
+                },
+                {
+                  "text": "drug trafficking",
+                  "type": "internal",
+                  "page": "drug trafficking"
+                },
+                {
+                  "text": "CNRP",
+                  "type": "internal",
+                  "page": "Cambodia National Rescue Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kem Sokha"
+                }
+              ]
+            },
+            {
+              "text": "Kheng continues to attempt to be a mediating force in Cambodia politics."
+            },
+            {
+              "text": "In September 2015, Kheng announced the formation of a seven-person police commission to investigate the 2013 death threats made by CPP Interior Ministry official Lieutenant Colonel Pheng Vannak against CNRP deputy leader Kem Sokha.",
               "links": [
                 {
                   "type": "internal",
@@ -739,127 +990,227 @@
             },
             {
               "text": "The investigation has resulted in Kheng removing Vannak from his position."
+            },
+            {
+              "text": "After the October 2015 attacks on opposition CNRP lawmakers by pro-CPP demonstrators, Kheng conducted informal meetings with CNRP leader Sam Rainsy in an attempt to \"restore a working relationship\" between the two parties and quell the tension.",
+              "links": [
+                {
+                  "text": "CNRP",
+                  "type": "internal",
+                  "page": "Cambodian National Rescue Party"
+                }
+              ]
+            },
+            {
+              "text": "This politics of stability has been summarized in the slogan which has began a leitmotiv of CPP: orkun santheipheap (Khmer: អរគុណសន្តិភាព), which translates as \"thanks be for peace\".",
+              "formatting": {
+                "italic": [
+                  "orkun santheipheap"
+                ]
+              }
             }
           ]
         }
       ],
       "references": [
         {
-          "title": "Politik (Politics)",
-          "url": "http://www.welt-auf-einen-blick.de/politik/exekutive.php",
-          "website": "der Welt auf einen Blick (World at a Glance)",
-          "accessdate": "29 November 2015",
-          "language": "German",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "author": "Mehta, Harish C.",
-          "title": "Warrior Prince: Norodom Ranariddh, Son of King Sihanouk of Cambodia",
-          "year": "2001",
-          "publisher": "Graham Brash",
-          "location": "Singapore",
-          "isbn": "9812180869",
+          "last": "Forest",
+          "first": "Alain",
+          "url": "https://books.google.com.kh/books?id=7ufZAAAAMAAJ&dq=sar+kheng+%22prey+veng%22&focus=searchwithinvolume&q=sar+kheng+",
+          "title": "Cambodge contemporain",
+          "date": "2008",
+          "publisher": "Indes savantes",
+          "isbn": "978-2-84654-193-0",
+          "pages": "463",
+          "language": "fr",
           "template": "citation",
           "type": "book"
         },
         {
-          "author": "Widyono, Benny",
-          "title": "Dancing in Shadows: Sihanouk, the Khmer Rouge, and the United Nations in Cambodia",
-          "year": "2008",
-          "publisher": "Rowman & Littlefield",
-          "location": "Lanham, Maryland, United States of America",
-          "page": "277",
-          "isbn": "978-0742555532",
-          "template": "citation",
-          "type": "book"
-        },
-        {
-          "last1": "Um",
-          "first1": "Khatharya",
-          "title": "Cambodia in 1994: the year of transition",
-          "journal": "Asian Survey",
-          "date": "1995",
-          "volume": "35",
-          "issue": "1",
-          "pages": "76–83",
-          "doi": "10.2307/2645133",
-          "jstor": "2645133",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "last1": "Peou",
-          "first1": "Sorpong",
-          "title": "Hun Sen's Pre-emptive Coup: Causes and Consequences",
-          "journal": "Southeast Asian Affairs",
-          "date": "1998",
-          "pages": "86–102",
-          "doi": "10.1355/SEAA98G",
-          "template": "citation",
-          "type": "journal"
-        },
-        {
-          "title": "CAMBODIA: Revelations of former police chief must be followed with investigations and suspensions",
-          "url": "http://www.humanrights.asia/news/ahrc-news/AS-202-2006",
-          "publisher": "Asian Human Rights Commission",
-          "accessdate": "8 November 2015",
+          "date": "4 June 1987",
+          "title": "Cambodia is Said to Torture Prisoners",
+          "url": "http://www.highbeam.com/doc/1P2-8013822.html",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140611063352/http://www.highbeam.com/doc/1P2-8013822.html",
+          "archive-date": "11 June 2014",
+          "accessdate": "4 November 2015",
+          "publisher": "HighBeam Research",
+          "newspaper": "The Boston Globe",
           "template": "citation",
           "type": "web"
         },
         {
-          "last1": "Smith",
-          "first1": "R. Jeffrey",
-          "title": "Controversial Cambodian to Visit U.S",
-          "url": "https://www.washingtonpost.com/wp-dyn/content/article/2007/04/17/AR2007041701771.html?nav=rss_nation/special",
+          "date": "6 June 1987",
+          "title": "Cambodia Criticizes Amnesty International Report",
+          "agency": "Associated Press",
+          "url": "http://www.apnewsarchive.com/1987/Cambodia-Criticizes-Amnesty-International-Report/id-619e25a700c5ec2e46e3dfc2438227bb",
+          "accessdate": "4 November 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Alex Willemyns",
+          "title": "Opposition's Demand for TV Access Crucial, Futile – The Cambodia Daily",
+          "url": "http://www.cambodiadaily.com/elections/oppositions-demand-for-tv-access-crucial-futile-44423/",
+          "accessdate": "4 November 2015",
+          "work": "The Cambodia Daily",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "22 October 2015",
+          "title": "Sokha threat investigation in works",
+          "work": "The Phnom Penh Post",
+          "url": "http://www.phnompenhpost.com/national/sokha-threat-investigation-works",
           "accessdate": "8 November 2015",
-          "newspaper": "The Washington Post",
-          "date": "18 April 2007",
           "template": "citation",
           "type": "news"
         },
         {
           "last1": "Neou",
           "first1": "Vannarin",
+          "date": "5 November 2015",
           "title": "Hun Sen Distances Ruling Party From Attacks on Opposition",
-          "url": "http://www.voanews.com/content/hun-sen-distance-rulinng-party-from-attacks-on-opposition/3041544.html",
-          "accessdate": "8 November 2015",
           "work": "VOA News",
           "agency": "Voice of America",
-          "date": "5 November 2015",
+          "url": "http://www.voanews.com/content/hun-sen-distance-rulinng-party-from-attacks-on-opposition/3041544.html",
+          "accessdate": "8 November 2015",
           "template": "citation",
           "type": "news"
         },
         {
-          "last1": "Chhay",
-          "first1": "Channyda",
-          "title": "Kheng warns brass on coast",
-          "url": "http://www.phnompenhpost.com/national/kheng-warns-brass-coast",
-          "accessdate": "8 November 2015",
+          "date": "2020-01-02",
+          "title": "ពាក្យ «អរគុណសន្តិភាព!» ត្រូវបានបិទតាមសាលារៀន មណ្ឌលសុខភាព មូលដ្ឋានកងរាជអាវុធហត្ថ និងសាលាក្រុងតាមបណ្តាខេត្តស្ទើរទូទាំងប្រទេស",
+          "url": "https://khmerpostasia.com/archives/42961",
+          "access-date": "2022-09-28",
+          "website": "ខ្មែរប៉ុស្ដិ៍",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "30 October 2015",
+          "title": "Sokha stripped of National Assembly vice presidency",
           "work": "The Phnom Penh Post",
-          "date": "8 September 2015",
+          "url": "http://www.phnompenhpost.com/national/sokha-stripped-national-assembly-vice-presidency",
+          "accessdate": "4 November 2015",
           "template": "citation",
           "type": "news"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Honors and recognitions",
+      "depth": 0,
+      "paragraphs": [
         {
-          "title": "Sokha threat investigation in works",
-          "url": "http://www.phnompenhpost.com/national/sokha-threat-investigation-works",
-          "accessdate": "8 November 2015",
-          "work": "The Phnom Penh Post",
-          "date": "22 October 2015",
+          "sentences": [
+            {
+              "text": "On June 14, 2015, King Norodom Sihamoni awarded Kheng the honorary title of Samdech.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norodom Sihamoni"
+                },
+                {
+                  "type": "internal",
+                  "page": "Samdech"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Samdech"
+                ]
+              }
+            },
+            {
+              "text": "His official title is \"Samdech Kralahom Sar Kheng\" (សម្ដេចក្រឡាហោម ស ខេង)."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "'Samdech' titles given to Chhum and Kheng",
+          "url": "http://www.phnompenhpost.com/national/samdech-titles-given-chhum-and-kheng",
           "template": "citation",
-          "type": "news"
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kheng is married to Nhem Sakhan with whom he has three children."
+            },
+            {
+              "text": "Through matrimonial alliances, Kheng is part of an intricate network of powerful Cambodian families."
+            },
+            {
+              "text": "Kheng is also brother-in-law to former president of the Cambodian National Assembly Chea Sim, who was CPP president until his death in 2015.",
+              "links": [
+                {
+                  "text": "Cambodian National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly (Cambodia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chea Sim"
+                }
+              ]
+            },
+            {
+              "text": "His son Sar Sokha is married to Ke Kuon Sophy, the daughter of General Ke Kim Yan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ke Kim Yan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Forest",
+          "first": "Alain",
+          "url": "https://books.google.com.kh/books?id=7ufZAAAAMAAJ&dq=sar+kheng+%22prey+veng%22&focus=searchwithinvolume&q=sar+kheng+",
+          "title": "Cambodge contemporain",
+          "date": "2008",
+          "publisher": "Indes savantes",
+          "isbn": "978-2-84654-193-0",
+          "pages": "185",
+          "language": "fr",
+          "template": "citation",
+          "type": "book"
         },
         {
-          "last1": "Guo",
-          "first1": "Sujian",
-          "title": "The Political Economy of Asian Transition from Communism",
-          "date": "2006",
-          "publisher": "Ashgate Publishing, Ltd.",
-          "isbn": "0754647358",
-          "page": "70",
-          "url": "https://books.google.com/books?id=7A8ep7V7MvkC&q=sar+kheng+1989&pg=PA70",
-          "accessdate": "8 November 2015",
+          "last1": "Heder",
+          "first1": "Steve",
+          "date": "2015",
+          "title": "Cambodia: Capitalist Transformation by Neither Liberal Democracy Nor Dictatorship",
+          "journal": "Southeast Asian Affairs",
+          "volume": "2012",
+          "issue": "1",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "last": "Strangio",
+          "first": "Sebastian",
+          "url": "https://books.google.com.kh/books?id=s-2uBAAAQBAJ&pg=PA73&dq=sar+kheng+%22prey+veng%22&hl=km&sa=X&ved=2ahUKEwjf4Mjxjrf6AhV2qlYBHZr3DfYQ6AF6BAgCEAI#v=onepage&q=sar%20kheng%20%22prey%20veng%22&f=false",
+          "title": "Hun Sen's Cambodia",
+          "date": "2014-11-28",
+          "publisher": "Yale University Press",
+          "isbn": "978-0-300-21014-9",
+          "pages": "73",
+          "language": "en",
           "template": "citation",
           "type": "book"
         }

@@ -178,10 +178,10 @@
             ]
           },
           "reg-type": {
-            "text": "Prime Minister",
+            "text": "Prime minister(s)",
             "links": [
               {
-                "text": "Prime Minister",
+                "text": "Prime minister(s)",
                 "type": "internal",
                 "page": "Prime Minister of Cambodia"
               }
