@@ -3203,6 +3203,9 @@
         {
           "url": "https://www.rfa.org/english/news/cambodia/sorry-11292018161515.html",
           "title": "Cambodia's Hun Sen 'Sorry' He Hadn't Killed Protest Leaders",
+          "work": "Radio Free Asia",
+          "date": "29 November 2018",
+          "access-date": "29 September 2022",
           "template": "citation",
           "type": "web"
         },
@@ -4163,10 +4166,13 @@
       ],
       "references": [
         {
+          "url": "https://www.nst.com.my/news/nation/2017/10/288255/agong-attends-sultan-bruneis-golden-jubilee-royal-banquet",
+          "title": "Agong attends Sultan of Brunei's Golden Jubilee royal banquet",
+          "work": "New Straits Times",
+          "date": "6 October 2017",
+          "access-date": "29 September 2022",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "template": "citation",
