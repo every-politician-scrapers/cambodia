@@ -393,7 +393,7 @@
         {
           "last": "Jennar",
           "first": "Raoul Marc",
-          "url": "https://books.google.com.kh/books?id=bnJuAAAAMAAJ&q=sar+kheng+les+cles+du+cambodge&dq=sar+kheng+les+cles+du+cambodge&hl=km&sa=X&ved=2ahUKEwjvqKfYjbf6AhWIAN4KHbu_DrQQ6AF6BAgCEAI",
+          "url": "https://books.google.com/books?id=bnJuAAAAMAAJ&q=sar+kheng+les+cles+du+cambodge",
           "title": "Les clés du Cambodge",
           "date": "1995",
           "publisher": "Maisonneuve et Larose",
@@ -486,7 +486,7 @@
         {
           "last": "François",
           "first": "Im",
-          "url": "https://books.google.com.kh/books?id=bcwWAQAAIAAJ&q=sar+kheng+%22prey+veng%22&dq=sar+kheng+%22prey+veng%22&hl=km&sa=X&ved=2ahUKEwj1noXAj7f6AhXYnFYBHZqgBvc4MhDoAXoECAoQAg",
+          "url": "https://books.google.com/books?id=bcwWAQAAIAAJ&q=sar+kheng+%22prey+veng%22",
           "title": "La question cambodgienne dans les relations internationales de 1979 à 1993",
           "date": "2005",
           "publisher": "ANRT. Atelier national de reproduction des thèses de Lille",
@@ -497,9 +497,9 @@
           "type": "book"
         },
         {
-          "last": "Oeur",
-          "first": "U. Sam",
-          "url": "https://books.google.com.kh/books?id=HltuAAAAMAAJ&q=%22sar+phim%22&dq=%22sar+phim%22&hl=km&sa=X&ved=2ahUKEwj7_8b5r7f6AhXvqFYBHWYqD_kQ6AF6BAgIEAI",
+          "last1": "Oeur",
+          "first1": "U. Sam",
+          "url": "https://books.google.com/books?id=HltuAAAAMAAJ&q=%22sar+phim%22",
           "title": "Crossing Three Wildernesses: A Memoir",
           "last2": "McCullough",
           "first2": "Ken",
@@ -514,7 +514,7 @@
         {
           "last": "Vandy",
           "first": "Kaonn",
-          "url": "https://books.google.com.kh/books?id=w4NuAAAAMAAJ&q=%22sar+phim%22&dq=%22sar+phim%22&hl=km&sa=X&ved=2ahUKEwj7_8b5r7f6AhXvqFYBHWYqD_kQ6AF6BAgEEAI",
+          "url": "https://books.google.com/books?id=w4NuAAAAMAAJ&q=%22sar+phim%22",
           "title": "Cambodge 1940-1991, ou, La politique sans les Cambodgiens: essai",
           "date": "1993",
           "publisher": "L'Harmattan",
@@ -691,7 +691,7 @@
         {
           "last": "Widyono",
           "first": "Benny",
-          "url": "https://books.google.com.kh/books?id=jR9tAAAAQBAJ&pg=PA173&dq=sar+kheng+%22prey+veng%22&hl=km&sa=X&ved=2ahUKEwjf4Mjxjrf6AhV2qlYBHZr3DfYQ6AF6BAgKEAI#v=onepage&q=sar%20kheng%20&f=false",
+          "url": "https://books.google.com/books?id=jR9tAAAAQBAJ&q=sar+kheng+&pg=PA173",
           "title": "Dancing in Shadows: Sihanouk, the Khmer Rouge, and the United Nations in Cambodia",
           "date": "2007-10-23",
           "publisher": "Rowman & Littlefield Publishers",
@@ -777,7 +777,7 @@
         {
           "last": "Peou",
           "first": "Sorpong",
-          "url": "https://books.google.com.kh/books?id=OWtKpRaeCWUC&pg=PA302&dq=sar+kheng+%22prey+veng%22&hl=km&sa=X&ved=2ahUKEwjf4Mjxjrf6AhV2qlYBHZr3DfYQ6AF6BAgJEAI#v=onepage&q=sar%20kheng%20%22prey%20veng%22&f=false",
+          "url": "https://books.google.com/books?id=OWtKpRaeCWUC&dq=sar+kheng+%22prey+veng%22&pg=PA302",
           "title": "Intervention & Change in Cambodia: Towards Democracy?",
           "date": "2000",
           "publisher": "Institute of Southeast Asian",
@@ -901,8 +901,8 @@
           "type": "news"
         },
         {
-          "last": "Kijewski",
-          "first": "Leonie",
+          "last1": "Kijewski",
+          "first1": "Leonie",
           "last2": "Koemsoeun",
           "first2": "Soth",
           "title": "Sar Kheng downs offer of inclusion into CNRP",
@@ -917,7 +917,7 @@
           "last": "Chheng",
           "first": "Niem",
           "date": "2019-07-08",
-          "title": "Sar Kheng sues Rainsy for $1M over ‘revenge’ claims",
+          "title": "Sar Kheng sues Rainsy for $1M over 'revenge' claims",
           "url": "https://www.phnompenhpost.com/national-politics/sar-kheng-sues-rainsy-1m-over-revenge-claims",
           "access-date": "2022-09-28",
           "website": "Phnom Penh Post",
@@ -1016,7 +1016,7 @@
         {
           "last": "Forest",
           "first": "Alain",
-          "url": "https://books.google.com.kh/books?id=7ufZAAAAMAAJ&dq=sar+kheng+%22prey+veng%22&focus=searchwithinvolume&q=sar+kheng+",
+          "url": "https://books.google.com/books?id=7ufZAAAAMAAJ&q=sar+kheng+",
           "title": "Cambodge contemporain",
           "date": "2008",
           "publisher": "Indes savantes",
@@ -1180,7 +1180,7 @@
         {
           "last": "Forest",
           "first": "Alain",
-          "url": "https://books.google.com.kh/books?id=7ufZAAAAMAAJ&dq=sar+kheng+%22prey+veng%22&focus=searchwithinvolume&q=sar+kheng+",
+          "url": "https://books.google.com/books?id=7ufZAAAAMAAJ&q=sar+kheng+",
           "title": "Cambodge contemporain",
           "date": "2008",
           "publisher": "Indes savantes",
@@ -1204,7 +1204,7 @@
         {
           "last": "Strangio",
           "first": "Sebastian",
-          "url": "https://books.google.com.kh/books?id=s-2uBAAAQBAJ&pg=PA73&dq=sar+kheng+%22prey+veng%22&hl=km&sa=X&ved=2ahUKEwjf4Mjxjrf6AhV2qlYBHZr3DfYQ6AF6BAgCEAI#v=onepage&q=sar%20kheng%20%22prey%20veng%22&f=false",
+          "url": "https://books.google.com/books?id=s-2uBAAAQBAJ&dq=sar+kheng+%22prey+veng%22&pg=PA73",
           "title": "Hun Sen's Cambodia",
           "date": "2014-11-28",
           "publisher": "Yale University Press",
