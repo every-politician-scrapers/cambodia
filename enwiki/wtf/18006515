@@ -1,0 +1,205 @@
+{
+  "title": "Yim Chhaily",
+  "pageID": 18006515,
+  "categories": [
+    "Deputy Prime Ministers of Cambodia",
+    "Members of the National Assembly (Cambodia)",
+    "Cambodian People's Party politicians",
+    "Government ministers of Cambodia",
+    "Living people",
+    "1950 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Yim Chhaily (born 1 January 1950) is a Cambodian politician.",
+              "links": [
+                {
+                  "text": "Cambodian",
+                  "type": "internal",
+                  "page": "Cambodia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Yim Chhaily"
+                ]
+              }
+            },
+            {
+              "text": "He belongs to Cambodian People's Party and was elected to represent Banteay Meanchey in the National Assembly of Cambodia in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambodian People's Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Banteay Meanchey"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Cambodia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cambodian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Yim",
+            "Chhaily"
+          ],
+          "lang": "Cambodian",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1950",
+          "month": "1",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Yim Chhaily"
+          },
+          "honorific_suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Cambodia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Cambodia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 September 2008"
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of Parliament for Kampong Cham",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Parliament of Cambodia"
+              },
+              {
+                "text": "Kampong Cham",
+                "type": "internal",
+                "page": "Kampong Cham (National Assembly constituency)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 September 2018"
+          },
+          "predecessor1": {
+            "text": "Heng Samrin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heng Samrin"
+              }
+            ]
+          },
+          "majority1": {
+            "text": "278,139 (66.4%)"
+          },
+          "office2": {
+            "text": "Member of Parliament for Banteay Meanchey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Banteay Meanchey"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "27 September 2003"
+          },
+          "term_end2": {
+            "text": "29 July 2018"
+          },
+          "majority2": {
+            "text": "83,861 (32.8%)"
+          },
+          "birth_date": {
+            "text": "January 1, 1950"
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

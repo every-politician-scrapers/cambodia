@@ -1,0 +1,256 @@
+{
+  "title": "Kong Sam Ol",
+  "pageID": 18006902,
+  "categories": [
+    "1936 births",
+    "Members of the National Assembly (Cambodia)",
+    "Cambodian People's Party politicians",
+    "Living people",
+    "Government ministers of Cambodia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kong Sam Ol (គង់ សំអុល, Kóng Sâm'ŏl ; born 1 November 1936) is a Cambodian politician who has been the minister of the Royal Palace since 1998.",
+              "links": [
+                {
+                  "text": "Cambodian",
+                  "type": "internal",
+                  "page": "Cambodia"
+                },
+                {
+                  "text": "Royal Palace",
+                  "type": "internal",
+                  "page": "Royal Palace of Cambodia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kong Sam Ol"
+                ]
+              }
+            },
+            {
+              "text": "He was Minister of Agriculture, Forestry and Fisheries from 1986 to 1989.",
+              "links": [
+                {
+                  "text": "Minister of Agriculture, Forestry and Fisheries",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture, Forestry and Fisheries (Cambodia)"
+                }
+              ]
+            },
+            {
+              "text": "He belongs to the Cambodian People's Party and was elected to represent Kampong Chhnang Province in the National Assembly in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambodian People's Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kampong Chhnang Province"
+                },
+                {
+                  "text": "National Assembly",
+                  "type": "internal",
+                  "page": "National Assembly of Cambodia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "lang": "Cambodian",
+          "list": [
+            "Kong",
+            "Sam Ol"
+          ],
+          "template": "family name hatnote"
+        },
+        {
+          "date": "February 2022",
+          "template": "fact"
+        },
+        {
+          "year": "1936",
+          "month": "11",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "kɔŋ sɑmʔol",
+          "template": "ipa"
+        },
+        {
+          "date": "February 2022",
+          "template": "fact"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Samdech Chaufea Veang",
+            "links": [
+              {
+                "text": "Samdech Chaufea Veang",
+                "type": "internal",
+                "page": "Samdech"
+              }
+            ]
+          },
+          "name": {
+            "text": "Kong Sam Ol"
+          },
+          "native_name": {
+            "text": "គង់ សំអុល"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "image": {
+            "text": "Samdech Kong Sam Ol.jpg"
+          },
+          "caption": {
+            "text": "Sam Ol in 2015"
+          },
+          "office": {
+            "text": "Minister of the Royal Palace",
+            "links": [
+              {
+                "text": "Royal Palace",
+                "type": "internal",
+                "page": "Royal Palace, Phnom Penh"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Norodom Sihanouk Norodom Sihamoni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norodom Sihanouk"
+              },
+              {
+                "type": "internal",
+                "page": "Norodom Sihamoni"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 November 1998"
+          },
+          "predecessor": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "office1": {
+            "text": "Minister of Agriculture, Forestry and Fisheries",
+            "links": [
+              {
+                "text": "Minister of Agriculture, Forestry and Fisheries",
+                "type": "internal",
+                "page": "Ministry of Agriculture, Forestry and Fisheries (Cambodia)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1986",
+            "number": 1986
+          },
+          "term_end1": {
+            "text": "1989",
+            "number": 1989
+          },
+          "primeminister1": {
+            "text": "Hun Sen"
+          },
+          "office2": {
+            "text": "Member of Parliament for Kampong Chhnang",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Parliament of Cambodia"
+              },
+              {
+                "text": "Kampong Chhnang",
+                "type": "internal",
+                "page": "Kampong Chhnang Province"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "14 June 1993"
+          },
+          "majority2": {
+            "text": "27,133 (11.1%)"
+          },
+          "birth_date": {
+            "text": "November 1, 1936"
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Cambodian"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "title": "Ing Kantha Phavi",
+  "pageID": 58160643,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Cambodian expatriates in France",
+    "Cambodian physicians",
+    "21st-century Cambodian women politicians",
+    "Cambodian People's Party politicians",
+    "Government ministers of Cambodia",
+    "Women government ministers of Cambodia",
+    "Members of the National Assembly (Cambodia)",
+    "Pierre and Marie Curie University alumni",
+    "École nationale d'administration alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ing Kantha Phavi (អ៊ឹង កន្ថាផាវី; born 16 July 1960) is a Cambodian physician and politician who has served as the Minister of Women's Affairs since 2004.",
+              "links": [
+                {
+                  "text": "Minister of Women's Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Women's Affairs (Cambodia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ing Kantha Phavi"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "lang": "Cambodian",
+          "list": [
+            "Ing",
+            "Kantha Phavi"
+          ],
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1960",
+          "month": "7",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Her Excellency Dr.",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              },
+              {
+                "text": "Dr.",
+                "type": "internal",
+                "page": "Physician"
+              }
+            ]
+          },
+          "name": {
+            "text": "Ing Kantha Phavi"
+          },
+          "native_name": {
+            "text": "អ៊ឹង កន្ថាផាវី"
+          },
+          "office": {
+            "text": "Minister of Women's Affairs",
+            "links": [
+              {
+                "text": "Minister of Women's Affairs",
+                "type": "internal",
+                "page": "Ministry of Women's Affairs (Cambodia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 July 2004"
+          },
+          "predecessor": {
+            "text": "Mu Sochua",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mu Sochua"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 16, 1960"
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Physician · politician"
+          },
+          "alma_mater": {
+            "text": "Pierre and Marie Curie University (MD)\nÉcole nationale d'administration (MPA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pierre and Marie Curie University"
+              },
+              {
+                "text": "MD",
+                "type": "internal",
+                "page": "Doctor of Medicine"
+              },
+              {
+                "text": "École nationale d'administration",
+                "type": "internal",
+                "page": "École nationale d'administration"
+              },
+              {
+                "text": "MPA",
+                "type": "internal",
+                "page": "Master of Public Administration"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

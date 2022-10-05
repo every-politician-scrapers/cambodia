@@ -1,0 +1,216 @@
+{
+  "title": "Suy Sem",
+  "pageID": 18015000,
+  "categories": [
+    "1947 births",
+    "Members of the National Assembly (Cambodia)",
+    "Living people",
+    "Government ministers of Cambodia",
+    "Cambodian People's Party politicians",
+    "Cambodian people of Chinese descent",
+    "People from Phnom Penh"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Suy Sem  (ស៊ុយ សែម; born 25 August 1947) is a Cambodian politician and Minister of Mines and Energy.",
+              "links": [
+                {
+                  "text": "Cambodian",
+                  "type": "internal",
+                  "page": "Cambodia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Suy Sem "
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Cambodian People's Party and was elected to represent Pursat Province in the National Assembly of Cambodia in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambodian People's Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pursat Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Cambodia"
+                }
+              ]
+            },
+            {
+              "text": "He was reinstated as the Minister of Mines and Energy after the general elections in 2013."
+            },
+            {
+              "text": "Before 2013, he served as Minister of Industry, Mines, and Energy which was split into two ministries: Ministry of Mines and Energy, and Ministry of Industry and Handicrafts."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cambodian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Suy",
+            "Sem"
+          ],
+          "lang": "Cambodian",
+          "template": "family name hatnote"
+        },
+        {
+          "list": [
+            "Minister of Industry, Mines and Energy from 2004 to 2013."
+          ],
+          "template": "efn"
+        },
+        {
+          "year": "1947",
+          "month": "8",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Suy Sem"
+          },
+          "image": {
+            "text": "Suy Sem, Minister of Mines and Energy.jpg"
+          },
+          "office": {
+            "text": "Minister of Mines and Energy",
+            "links": [
+              {
+                "text": "Minister of Mines and Energy",
+                "type": "internal",
+                "page": "Ministry of Mines and Energy (Cambodia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 July 2004"
+          },
+          "office2": {
+            "text": "Member of Parliament for Pursat",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Parliament of Cambodia"
+              },
+              {
+                "text": "Pursat",
+                "type": "internal",
+                "page": "Pursat Province"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 September 2013"
+          },
+          "term_start3": {
+            "text": "27 September 2003"
+          },
+          "term_end3": {
+            "text": "9 October 2008"
+          },
+          "majority2": {
+            "text": "93,928 (46.43%)"
+          },
+          "birth_date": {
+            "text": "August 25, 1947"
+          },
+          "birth_place": {
+            "text": "Phnom Penh, Cambodia, French Indochina",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Phnom Penh"
+              },
+              {
+                "text": "Cambodia",
+                "type": "internal",
+                "page": "French protectorate of Cambodia"
+              },
+              {
+                "type": "internal",
+                "page": "French Indochina"
+              }
+            ]
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Chea Kheng"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.cambodiadaily.com/archives/suy-sem-set-for-reinstatement-as-minister-of-mines-and-energy-48820/",
+          "title": "Suy Sem Set for Reinstatement as Minister of Mines and Energy",
+          "last": "Kuch",
+          "first": "Naren",
+          "date": "December 27, 2013",
+          "work": "The Cambodia Daily",
+          "access-date": "January 30, 2015",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "notelist"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

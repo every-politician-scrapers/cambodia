@@ -1,0 +1,215 @@
+{
+  "title": "Ouk Rabun",
+  "pageID": 43583538,
+  "categories": [
+    "Members of the National Assembly (Cambodia)",
+    "Living people",
+    "Cambodian People's Party politicians",
+    "1951 births",
+    "Government ministers of Cambodia",
+    "People from Kampong Chhnang province"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ouk Rabun is a Cambodian politician, and the current Minister of Rural Development, previously serving as the Minister of Agriculture, Forestry and Fisheries.",
+              "links": [
+                {
+                  "text": "Cambodian",
+                  "type": "internal",
+                  "page": "Cambodian people"
+                },
+                {
+                  "text": "Minister of Agriculture, Forestry and Fisheries",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture, Forestry and Fisheries (Cambodia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ouk Rabun"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Cambodian People's Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambodian People's Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cambodian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1951",
+          "month": "1",
+          "day": "27",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ouk Rabun"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Rural Development",
+            "links": [
+              {
+                "text": "Minister of Rural Development",
+                "type": "internal",
+                "page": "Ministry of Rural Development (Cambodia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "5 April 2016"
+          },
+          "predecessor": {
+            "text": "Chea Sophara",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chea Sophara"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Agriculture, Forestry and Fisheries",
+            "links": [
+              {
+                "text": "Minister of Agriculture, Forestry and Fisheries",
+                "type": "internal",
+                "page": "Ministry of Agriculture, Forestry and Fisheries (Cambodia)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Hun Sen"
+          },
+          "term_start1": {
+            "text": "24 September 2013"
+          },
+          "term_end1": {
+            "text": "5 April 2016"
+          },
+          "predecessor1": {
+            "text": "Chan Sarun",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chan Sarun"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Veng Sakhon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Veng Sakhon"
+              }
+            ]
+          },
+          "constituency_mp2": {
+            "text": "Kampong Chhnang",
+            "links": [
+              {
+                "text": "Kampong Chhnang",
+                "type": "internal",
+                "page": "Kampong Chhnang Province"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "23 September 2013"
+          },
+          "term_end2": {
+            "text": "18 September 2018"
+          },
+          "birth_date": {
+            "text": "January 27, 1951"
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.cambodiadaily.com/news/five-more-years-for-hun-sen-some-ministers-reshuffled-43133/",
+          "title": "Five More Years for Hun Sen; Some Ministers Reshuffled",
+          "first": "Hul",
+          "last": "Reaksmey",
+          "date": "25 September 2013",
+          "website": "The Cambodia Daily",
+          "accessdate": "5 December 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.phnompenhpost.com/national/illegal-fishing-battle-heats",
+          "title": "Illegal fishing battle heats up",
+          "first": "Uong",
+          "last": "Ratana",
+          "date": "21 July 2014",
+          "website": "Phnom Penh Post",
+          "accessdate": "5 December 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

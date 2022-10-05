@@ -1,0 +1,191 @@
+{
+  "title": "Chhay Than",
+  "pageID": 18014691,
+  "categories": [
+    "Finance ministers of Cambodia",
+    "Government ministers of Cambodia",
+    "Members of the National Assembly (Cambodia)",
+    "Living people",
+    "Cambodian People's Party politicians",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chhay Than  is a Cambodian politician.",
+              "links": [
+                {
+                  "text": "Cambodian",
+                  "type": "internal",
+                  "page": "Cambodia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Chhay Than "
+                ]
+              }
+            },
+            {
+              "text": "He belongs to the Cambodian People's Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambodian People's Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Than became the head of the taxation department at the Minister of Finance of Kampuchea in 1981.",
+              "links": [
+                {
+                  "text": "Minister of Finance of Kampuchea",
+                  "type": "internal",
+                  "page": "Ministry of Economy and Finance (Cambodia)"
+                }
+              ]
+            },
+            {
+              "text": "He was Minister of Finance from 1986 to 1993.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Economy and Finance (Cambodia)"
+                }
+              ]
+            },
+            {
+              "text": "Later he became secretary of state, and then Minister of Planning in 1998."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected to represent Kandal Province in the National Assembly of Cambodia in 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kandal Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Assembly of Cambodia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Cambodian politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Chhay",
+            "Than"
+          ],
+          "lang": "Cambodian",
+          "template": "family name hatnote"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Chhay Than"
+          },
+          "office": {
+            "text": "Minister of Finance of Kampuchea",
+            "links": [
+              {
+                "text": "Minister of Finance of Kampuchea",
+                "type": "internal",
+                "page": "Ministry of Economy and Finance (Cambodia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1986",
+            "number": 1986
+          },
+          "term_end": {
+            "text": "1993",
+            "number": 1993
+          },
+          "predecessor": {
+            "text": "Chan Phin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chan Phin"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Sam Rainsy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sam Rainsy"
+              }
+            ]
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nytimes.com/1990/01/08/world/non-persons-no-longer.html",
+          "title": "Non-Persons No Longer",
+          "date": "8 January 1990",
+          "work": "The New York Times",
+          "page": "6",
+          "accessdate": "6 July 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "CPP adds eight to top echelon",
+          "url": "https://www.phnompenhpost.com/national/cpp-adds-eight-top-echelon",
+          "website": "www.phnompenhpost.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
