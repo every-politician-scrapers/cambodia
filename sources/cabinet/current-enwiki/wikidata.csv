@@ -1,6 +1,6 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,psid
 Q111574173,Keut Rith,Q114417280,Minister of Justice,2020-04-02,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q111574173-5B330F53-8A14-473D-B27D-A107EA55BEBD
-Q111745856,Ke Kim Yan,Q29146839,Deputy Prime Minister of Cambodia,2009-03-12,,,Q111745856-34d4d0f1-4a0a-a9fa-6205-28a21de7bc7e
+Q111745856,Ke Kim Yan,Q29146839,Deputy Prime Minister,2009-03-12,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q111745856-34d4d0f1-4a0a-a9fa-6205-28a21de7bc7e
 Q114418501,Chea Vandeth,Q114417384,Minister of Posts and Telecommunications,2020-03-30,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q114418501-73B2DB31-9EB9-4DAD-91D2-4718B5D9434B
 Q114418571,Chhit Sokhon,Q114417369,Minister of Cults and Religion,2020-03-30,,,Q114418571-bcb451aa-41c1-4e03-114c-976515a3e723
 Q114418804,Ith Sam Heng,Q114417377,Minister of Labour and Vocational Training,2018-09-06,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q114418804-0A17D4F9-29FC-406E-95F8-318812462DF9
@@ -11,6 +11,7 @@ Q114418811,Prum Sokha,Q114417357,Minister of Civil Service,2020-03-30,,https://e
 Q114418813,Vong Soth,Q114417432,"Minister of Social Affairs, Veterans and Youth Rehabilitation",2018-09-06,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q114418813-AA641E1E-30E2-4FD0-9C41-FB5267E7BD87
 Q16150274,Sar Kheng,Q113501549,Minister of Interior,1992-02-03,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q16150274-920F660E-F432-43F7-8856-00526A17CD04
 Q16150274,Sar Kheng,Q29146839,Deputy Prime Minister,1992,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q16150274-99a5b021-438b-2d23-9bcf-c433e567b3f1
+Q16190676,Kong Sam Ol,Q114419520,Minister of the Royal Palace,1998-11-30,,,Q16190676-F31D876D-BFEE-4A4C-80F1-131D89000D07
 Q16191229,Suy Sem,Q114417383,Minister of Mines and Energy,2004-07-16,,,Q16191229-CC488C56-15EE-4E71-A91B-114D37727B38
 Q16864093,Hang Chuon Naron,Q114417374,"Minister of Education, Youth and Sport",2013-09-24,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q16864093-BCFF2020-C656-44AD-A880-178FC88D3981
 Q16979822,Aun Pornmoniroth,Q113501533,Minister of Economy and Finance,2013-09-24,,https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen,Q16979822-1502C6D2-2A14-4872-B7FC-3A66152D3163
