@@ -1,0 +1,17 @@
+{
+    "jurisdiction": {
+        "name": "Cambodia",
+        "id": "Q424"
+    },
+    "cabinet": {
+      "id":     "Q15579106",
+      "start":  "2018-09-06",
+      "parent": "Q18210582"
+    },
+    "reference": {
+        "P4656": "https://en.wikipedia.org/wiki/Cabinet_of_Hun_Sen"
+    },
+    "person_description": {
+        "en": "Cambodian politician"
+    }
+}
