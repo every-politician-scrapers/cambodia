@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Veng Sakhon (វេង សាខុន; born 5 August 1960) is the Cambodian Minister of Agriculture, Forestry and Fisheries since April 2016.",
+              "text": "Veng Sakhon (វេង សាខុន; born 5 August 1960) was the Cambodian Minister of Agriculture, Forestry and Fisheries from April 2016 to October 2022.",
               "links": [
                 {
                   "text": "Cambodian",
@@ -101,12 +101,24 @@
           "term_start": {
             "text": "5 April 2016"
           },
+          "term_end": {
+            "text": "8 October 2022"
+          },
           "predecessor": {
             "text": "Ouk Rabun",
             "links": [
               {
                 "type": "internal",
                 "page": "Ouk Rabun"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Aun Pornmoniroth (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aun Pornmoniroth"
               }
             ]
           },
@@ -140,6 +152,15 @@
           "title": "Mr Veng Sakhon - EU Agenda",
           "publisher": "Euagenda.eu",
           "accessdate": "2018-05-28",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.khmertimeskh.com/501164999/minister-of-agriculture-dismissed-by-the-king/",
+          "title": "Minister of Agriculture dismissed by the King",
+          "work": "Khmer Times",
+          "date": "8 October 2022",
+          "accessdate": "8 October 2022",
           "template": "citation",
           "type": "web"
         }
