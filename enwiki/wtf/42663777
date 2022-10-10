@@ -109,17 +109,12 @@
       "infoboxes": [
         {
           "honorific-prefix": {
-            "text": "His Excellency Dr. Academician",
+            "text": "His Excellency Academician",
             "links": [
               {
                 "text": "His Excellency",
                 "type": "internal",
                 "page": "Excellency"
-              },
-              {
-                "text": "Dr.",
-                "type": "internal",
-                "page": "Doctorate"
               },
               {
                 "type": "internal",
@@ -432,6 +427,9 @@
         },
         {
           "template": "authority control"
+        },
+        {
+          "template": "cabinet of cambodia"
         },
         {
           "template": "cambodia-politician-stub"

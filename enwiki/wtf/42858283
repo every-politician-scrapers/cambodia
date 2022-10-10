@@ -5,6 +5,7 @@
     "1965 births",
     "21st-century Cambodian politicians",
     "Living people",
+    "Agriculture ministers",
     "Government ministers of Cambodia",
     "Deputy Prime Ministers of Cambodia",
     "Finance ministers of Cambodia",
@@ -178,10 +179,10 @@
             ]
           },
           "office1": {
-            "text": "Minister of Agriculture, Forestry and Fisherires",
+            "text": "Minister of Agriculture, Forestry and Fisheries",
             "links": [
               {
-                "text": "Minister of Agriculture, Forestry and Fisherires",
+                "text": "Minister of Agriculture, Forestry and Fisheries",
                 "type": "internal",
                 "page": "Ministry of Agriculture, Forestry and Fisheries (Cambodia)"
               }
@@ -510,6 +511,9 @@
         },
         {
           "template": "s-inc"
+        },
+        {
+          "template": "cabinet of cambodia"
         },
         {
           "template": "asean finance"

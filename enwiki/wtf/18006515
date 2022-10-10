@@ -177,6 +177,15 @@
                 "page": "Cambodian People's Party"
               }
             ]
+          },
+          "relations": {
+            "text": "Hun Many (son-in-law)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Many"
+              }
+            ]
           }
         }
       ],
@@ -195,6 +204,9 @@
       "templates": [
         {
           "template": "reflist"
+        },
+        {
+          "template": "cabinet of cambodia"
         },
         {
           "template": "cambodia-politician-stub"

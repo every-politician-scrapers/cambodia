@@ -1,5 +1,5 @@
 {
-  "title": "Koeut Rith",
+  "title": "Keut Rith",
   "pageID": 70514693,
   "categories": [
     "Cambodian lawyers",
@@ -574,6 +574,9 @@
       "title": "References",
       "depth": 0,
       "templates": [
+        {
+          "template": "cabinet of cambodia"
+        },
         {
           "template": "authority control"
         }

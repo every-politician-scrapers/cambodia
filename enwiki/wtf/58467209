@@ -138,15 +138,6 @@
               }
             ]
           },
-          "monarch": {
-            "text": "Norodom Sihamoni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Norodom Sihamoni"
-              }
-            ]
-          },
           "primeminister": {
             "text": "Hun Sen",
             "links": [
@@ -165,11 +156,14 @@
           "term_start1": {
             "text": "12 September 2018"
           },
-          "monarch1": {
-            "text": "Norodom Sihamoni"
-          },
           "primeminister1": {
-            "text": "Hun Sen"
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
           },
           "predecessor1": {
             "text": "Bin Chhin",
@@ -190,11 +184,14 @@
               }
             ]
           },
-          "monarch2": {
-            "text": "Norodom Sihamoni"
-          },
           "primeminister2": {
-            "text": "Hun Sen"
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
           },
           "term_start2": {
             "text": "5 April 2016"
@@ -231,7 +228,13 @@
             ]
           },
           "primeminister4": {
-            "text": "Hun Sen"
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
           },
           "term_start4": {
             "text": "25 September 2008"
@@ -257,17 +260,14 @@
               }
             ]
           },
-          "monarch5": {
-            "text": "Norodom Sihanouk",
+          "primeminister5": {
+            "text": "Hun Sen",
             "links": [
               {
                 "type": "internal",
-                "page": "Norodom Sihanouk"
+                "page": "Hun Sen"
               }
             ]
-          },
-          "primeminister5": {
-            "text": "Hun Sen"
           },
           "term_start5": {
             "text": "1998",
@@ -362,6 +362,9 @@
         },
         {
           "template": "cambodia-politician-stub"
+        },
+        {
+          "template": "cabinet of cambodia"
         }
       ]
     }

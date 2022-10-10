@@ -742,6 +742,9 @@
       "depth": 0,
       "templates": [
         {
+          "template": "cabinet of cambodia"
+        },
+        {
           "template": "authority control"
         }
       ]

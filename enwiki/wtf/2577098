@@ -640,13 +640,13 @@
       ]
     },
     {
-      "title": "= 1994 coup: surviving the failed attempt of Chakrapong and Sin Song",
-      "depth": 3,
+      "title": "1994 coup: surviving the failed attempt of Chakrapong and Sin Song",
+      "depth": 2,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "=A schism slowly developed in the CPP with Hun Sen and his supporters who would hold on to power at all costs on one side and the more moderate Kheng, Chea Sim and Heng Samrin on the other."
+              "text": "A schism slowly developed in the CPP with Hun Sen and his supporters who would hold on to power at all costs on one side and the more moderate Kheng, Chea Sim and Heng Samrin on the other."
             },
             {
               "text": "Hun Sen, who had control and support of the military and National Police emerged as the undisputed leader.",
@@ -1256,6 +1256,11 @@
       "paragraphs": [
         {
           "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "cabinet of cambodia"
         }
       ],
       "lists": [
