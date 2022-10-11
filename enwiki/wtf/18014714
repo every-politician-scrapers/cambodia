@@ -193,9 +193,6 @@
           "term_start2": {
             "text": "24 September 2013"
           },
-          "monarch2": {
-            "text": "Norodom Sihamoni"
-          },
           "primeminister2": {
             "text": "Hun Sen"
           },
@@ -227,15 +224,6 @@
           "term_start": {
             "text": "5 April 2016"
           },
-          "monarch": {
-            "text": "Norodom Sihamoni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Norodom Sihamoni"
-              }
-            ]
-          },
           "primeminister": {
             "text": "Hun Sen",
             "links": [
@@ -253,9 +241,6 @@
                 "page": "Tram Iv Tek"
               }
             ]
-          },
-          "monarch1": {
-            "text": "Norodom Sihamoni"
           },
           "primeminister1": {
             "text": "Hun Sen"
