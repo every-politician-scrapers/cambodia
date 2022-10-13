@@ -207,7 +207,13 @@
             ]
           },
           "successor1": {
-            "text": "Dith Tina (Nominee)"
+            "text": "Dith Tina (Nominee)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dith Tina"
+              }
+            ]
           },
           "office2": {
             "text": "Deputy Prime Minister of Cambodia",
