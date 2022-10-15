@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Aun Pornmoniroth (អូន ព័ន្ធមុនីរ័ត្ន; born 1 October 1965) is a Cambodian politician and economist, currently serving as the Minister of Economy and Finance, Deputy Prime Minister, and acting Minister of Agriculture.",
+              "text": "Aun Pornmoniroth (អូន ព័ន្ធមុនីរ័ត្ន; born 1 October 1965) is a Cambodian politician and economist, currently serving as the Minister of Economy and Finance and Deputy Prime Minister.",
               "links": [
                 {
                   "text": "Cambodian",
@@ -197,6 +197,9 @@
           "term_start1": {
             "text": "8 October 2022"
           },
+          "term_end1": {
+            "text": "14 October 2022"
+          },
           "predecessor1": {
             "text": "Veng Sakhon",
             "links": [
@@ -207,7 +210,7 @@
             ]
           },
           "successor1": {
-            "text": "Dith Tina (Nominee)",
+            "text": "Dith Tina",
             "links": [
               {
                 "type": "internal",
@@ -311,15 +314,6 @@
         }
       ],
       "references": [
-        {
-          "url": "https://www.khmertimeskh.com/501164999/minister-of-agriculture-dismissed-by-the-king/",
-          "title": "Minister of Agriculture dismissed by the King",
-          "work": "Khmer Times",
-          "date": "8 October 2022",
-          "accessdate": "9 October 2022",
-          "template": "citation",
-          "type": "web"
-        },
         {
           "url": "http://mef.gov.kh/aun-porn-moniroth-profile.html",
           "title": "H.E. Aun Porn Moniroth",
