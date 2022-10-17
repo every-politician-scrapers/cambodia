@@ -534,8 +534,11 @@
           "status2": {
             "text": "Second Prime Minister"
           },
-          "alongside2": {
-            "text": "Norodom Ranariddh (1993–97) and Ung Huot (1997–98)",
+          "1blankname2": {
+            "text": "First Prime Minister"
+          },
+          "1namedata2": {
+            "text": "Norodom Ranariddh (1993–1997)\nUng Huot (1997–1998)",
             "links": [
               {
                 "type": "internal",
@@ -592,7 +595,7 @@
             "text": "14 January 1985"
           },
           "term_end3": {
-            "text": "2 July 1993\nActing from 26 December 1984"
+            "text": "2 July 1993\nActing: 26 December 1984 – 14 January 1985"
           },
           "president3": {
             "text": "Heng Samrin\n\nChea Sim\n\nNorodom Sihanouk"
