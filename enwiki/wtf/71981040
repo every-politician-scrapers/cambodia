@@ -1,0 +1,204 @@
+{
+  "title": "Dith Tina",
+  "pageID": 71981040,
+  "categories": [
+    "1979 births",
+    "People from Phnom Penh",
+    "Living people",
+    "21st-century Cambodian politicians",
+    "Agriculture ministers",
+    "Cambodian People's Party politicians",
+    "Government ministers of Cambodia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dith Tina (born 7 January 1979) is a Cambodian politician and engineer who currently serves as Minister of Agriculture, Forestry and Fisheries.",
+              "links": [
+                {
+                  "text": "Cambodian",
+                  "type": "internal",
+                  "page": "Cambodia"
+                },
+                {
+                  "text": "Minister of Agriculture, Forestry and Fisheries",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture, Forestry and Fisheries (Cambodia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dith Tina"
+                ]
+              }
+            },
+            {
+              "text": "He was the secretary of state for the Ministry of Mines and Energy from 2014 to 2022.",
+              "links": [
+                {
+                  "text": "Ministry of Mines and Energy",
+                  "type": "internal",
+                  "page": "Ministry of Mines and Energy (Cambodia)"
+                }
+              ]
+            },
+            {
+              "text": "He is the son of chief justice Dith Munty.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dith Munty"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1979",
+          "month": "1",
+          "day": "7",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Dith Tina"
+          },
+          "office": {
+            "text": "Minister of Agriculture, Forestry and Fisheries",
+            "links": [
+              {
+                "text": "Minister of Agriculture, Forestry and Fisheries",
+                "type": "internal",
+                "page": "Ministry of Agriculture, Forestry and Fisheries (Cambodia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "14 October 2022"
+          },
+          "primeminister": {
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Veng Sakhon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Veng Sakhon"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 7, 1979"
+          },
+          "birth_place": {
+            "text": "Phnom Penh, Kampuchea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Phnom Penh"
+              },
+              {
+                "text": "Kampuchea",
+                "type": "internal",
+                "page": "Democratic Kampuchea"
+              }
+            ]
+          },
+          "education": {
+            "text": "École nationale supérieure des mines de Paris \nParis-Sud University (MS)",
+            "links": [
+              {
+                "text": "École nationale supérieure des mines de Paris",
+                "type": "internal",
+                "page": "Mines Paris - PSL"
+              },
+              {
+                "type": "internal",
+                "page": "Paris-Sud University"
+              },
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Master of Science"
+              }
+            ]
+          },
+          "relations": {
+            "text": "Dith Munty (father)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dith Munty"
+              }
+            ]
+          },
+          "party": {
+            "text": "Cambodian People's Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cambodian People's Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://lepetitjournal.com/cambodge/actualites/dith-tina-nouveau-ministre-cambodgien-agriculture-347992",
+          "title": "Dith Tina nouveau ministre cambodgien de l’agriculture",
+          "work": "Le Petit Journal",
+          "date": "11 October 2022",
+          "accessdate": "11 October 2022",
+          "language": "French",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://vodenglish.news/supreme-justices-son-selected-for-agriculture-minister/",
+          "title": "Supreme Justice’s Son Selected for Agriculture Minister",
+          "work": "VOD",
+          "date": "10 October 2022",
+          "accessdate": "12 October 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "cambodia-politician-stub"
+        },
+        {
+          "template": "cabinet of cambodia"
+        }
+      ]
+    }
+  ]
+}
