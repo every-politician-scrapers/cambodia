@@ -135,15 +135,6 @@
               }
             ]
           },
-          "monarch": {
-            "text": "Norodom Sihamoni",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Norodom Sihamoni"
-              }
-            ]
-          },
           "primeminister": {
             "text": "Hun Sen",
             "links": [
@@ -174,9 +165,6 @@
               }
             ]
           },
-          "monarch1": {
-            "text": "Norodom Sihamoni"
-          },
           "primeminister1": {
             "text": "Hun Sen"
           },
@@ -192,9 +180,6 @@
                 "page": "Ministry of Posts and Telecommunications (Cambodia)"
               }
             ]
-          },
-          "monarch2": {
-            "text": "Norodom Sihamoni"
           },
           "primeminister2": {
             "text": "Hun Sen"
