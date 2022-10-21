@@ -91,7 +91,7 @@
       ],
       "templates": [
         {
-          "description": "King of Cambodia",
+          "description": "King of Cambodia since 2004",
           "template": "short description"
         },
         {
@@ -256,7 +256,7 @@
             ]
           },
           "signature": {
-            "text": "King_Sihamoni's_signature.jpg"
+            "text": "Norodom Sihamoni signature.jpg"
           }
         }
       ],
