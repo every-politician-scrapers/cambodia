@@ -179,6 +179,21 @@
             ]
           },
           "office1": {
+            "text": "Deputy Prime Minister of Cambodia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of Cambodia"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Hun Sen"
+          },
+          "term_start1": {
+            "text": "6 September 2018"
+          },
+          "office2": {
             "text": "Minister of Agriculture, Forestry and Fisheries",
             "links": [
               {
@@ -188,19 +203,19 @@
               }
             ]
           },
-          "status1": {
+          "status2": {
             "text": "Acting"
           },
-          "primeminister1": {
+          "primeminister2": {
             "text": "Hun Sen"
           },
-          "term_start1": {
+          "term_start2": {
             "text": "8 October 2022"
           },
-          "term_end1": {
+          "term_end2": {
             "text": "17 October 2022"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Veng Sakhon",
             "links": [
               {
@@ -209,7 +224,7 @@
               }
             ]
           },
-          "successor1": {
+          "successor2": {
             "text": "Dith Tina",
             "links": [
               {
@@ -217,21 +232,6 @@
                 "page": "Dith Tina"
               }
             ]
-          },
-          "office2": {
-            "text": "Deputy Prime Minister of Cambodia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy Prime Minister of Cambodia"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Hun Sen"
-          },
-          "term_start2": {
-            "text": "6 September 2018"
           },
           "office3": {
             "text": "Member of the National Assembly",
@@ -286,7 +286,7 @@
             ]
           },
           "alma_mater": {
-            "text": "Moscow State University (MA, PhD)\nRoyal Academy of Cambodia",
+            "text": "Moscow State University (MA, PhD)",
             "links": [
               {
                 "type": "internal",
@@ -301,10 +301,6 @@
                 "text": "PhD",
                 "type": "internal",
                 "page": "Doctor of Philosophy"
-              },
-              {
-                "type": "internal",
-                "page": "Royal Academy of Cambodia"
               }
             ]
           },

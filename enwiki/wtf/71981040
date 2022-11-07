@@ -96,11 +96,15 @@
             ]
           },
           "predecessor": {
-            "text": "Veng Sakhon",
+            "text": "Veng Sakhon\nAun Pornmoniroth (acting)",
             "links": [
               {
                 "type": "internal",
                 "page": "Veng Sakhon"
+              },
+              {
+                "type": "internal",
+                "page": "Aun Pornmoniroth"
               }
             ]
           },
