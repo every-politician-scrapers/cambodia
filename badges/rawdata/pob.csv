@@ -1,0 +1,49 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q111574173,Koeut Rith,,,,,,false,,,,
+Q111745856,Ke Kim Yan,,,,,,false,,,,
+Q114418501,Chea Vandeth,,,,,,false,,,,
+Q114418571,Chhit Sokhon,,,,,,false,,,,
+Q114418804,Ith Sam Heng,,,,,,false,,,,
+Q114418806,Lim Kean Hor,,,,,,false,,,,
+Q114418808,Mao Havannall,,,,,,false,,,,
+Q114418809,Pich Bunthin,,,,,,false,,,,
+Q114418811,Prum Sokha,,,,,,false,,,,
+Q114418813,Vong Soth,,,,,,false,,,,
+Q114605369,Dith Tina,,,,,,false,,,,
+Q1385794,Sok An,NormalRank,Q4930130,Kiri Vong District,true,true,true,false,false,false,true
+Q1385794,Sok An,NormalRank,Q4930130,Kiri Vong District,true,true,true,false,true,false,false
+Q160318,Norodom Sihanouk,NormalRank,Q1850,Phnom Penh,true,true,true,true,false,false,false
+Q160318,Norodom Sihanouk,NormalRank,Q1850,Phnom Penh,true,true,true,false,false,false,true
+Q16150274,Sar Kheng,NormalRank,Q856788,Prey Veng Province,true,true,true,false,false,false,true
+Q16190676,Kong Sam Ol,,,,,,false,,,,
+Q16191229,Suy Sem,NormalRank,Q1850,Phnom Penh,true,true,true,false,false,false,true
+Q16864093,Hangchuon Naron,NormalRank,Q1850,Phnom Penh,true,true,true,false,false,false,true
+Q16979822,Aun Porn Moniroth,NormalRank,Q1850,Phnom Penh,true,true,true,false,false,false,true
+Q17523926,Phoeung Sakona,NormalRank,Q834464,Pursat Province,true,true,true,false,false,true,true
+Q22099925,Chea Sophara,NormalRank,Q142258,Kampong Cham Province,true,true,true,false,false,true,true
+Q23711016,Ang Vong Vathana,,,,,,false,,,,
+Q23771428,Prak Sokhon,NormalRank,Q1850,Phnom Penh,true,true,true,false,false,false,true
+Q27119675,Khek Sysoda,NormalRank,Q876549,Kampot,true,true,true,false,false,true,true
+Q28412157,Ing Kuntha Phavi,,,,,,false,,,,
+Q28969538,Bin Chhin,,,,,,false,,,,
+Q4922569,Tea Banh,NormalRank,Q466000,Koh Kong Province,true,true,false,,,,
+Q4922790,Khieu Kanharith,NormalRank,Q1850,Phnom Penh,true,true,false,,,,
+Q5069253,Cham Prasidh,NormalRank,Q1850,Phnom Penh,true,true,true,false,false,false,true
+Q5094851,Chhay Tan,,,,,,false,,,,
+Q54362350,Veng Sakhon,,,,,,false,,,,
+Q56223136,Say Sam Al,,,,,,false,,,,
+Q56255440,Mam Bunheng,NormalRank,Q613345,Takéo Province,true,true,true,false,false,true,true
+Q56886833,Ker Viseth,,,,,,false,,,,
+Q5764812,Him Chhem,,,,,,false,,,,
+Q5901400,Hor Nambora,,,,,,false,,,,
+Q59660308,Pan Sorasak,NormalRank,Q502148,Kampong Thom Province,true,true,true,false,false,true,true
+Q6382284,Keat Chhon,NormalRank,Q4929582,Chhloung District,true,true,true,false,false,false,true
+Q6816221,Men Sam An,NormalRank,Q4929336,Sambour District,true,true,true,false,false,false,true
+Q7638222,Sun Chanthol,NormalRank,Q6425870,Koh Thum District,true,true,true,false,false,false,true
+Q7795953,Thong Khon,,,,,,false,,,,
+Q7833112,Tram Iv Teuk,,,,,,false,,,,
+Q7878253,Ouk Rabun,,,,,,false,,,,
+Q8053618,Yim Chhaily,,,,,,false,,,,
+Q57319,Norodom Sihamoni,NormalRank,Q1850,Phnom Penh,true,true,true,false,false,false,true
+Q57788,Hun Sen,NormalRank,Q56236180,Peam Kaoh Sna Commune,true,true,false,,,,
+Q58287,Hor Namhong,NormalRank,Q1850,Phnom Penh,true,true,false,,,,
