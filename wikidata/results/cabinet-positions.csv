@@ -1,34 +1,34 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q29146839,Deputy Prime Minister of Cambodia,,,Q424,Q424,,
-Q114418549,Minister in Charge of the Office of the Council of Ministers,,,Q424,Q424,,
-Q114417309,"Minister of Agriculture, Forestry and Fisheries",Q6866612,"Ministry of Agriculture, Forestry and Fisheries",Q424,Q424,,
-Q114417357,Minister of Civil Service,,,Q424,Q424,,
-Q114417331,Minister of Commerce,Q6866671,Ministry of Commerce,,Q424,,
-Q114417369,Minister of Cults and Religion,,,Q424,Q424,,
-Q114417371,Minister of Culture and Fine Arts,Q6866728,Ministry of Culture and Fine Arts,,Q424,,
-Q113501533,Minister of Economy and Finance (Cambodia),Q10964814,Ministry of Economy and Finance (Cambodia),,Q424,,
-Q114417374,"Minister of Education, Youth and Sport",Q11047097,"Ministry of Education, Youth and Sport",,Q424,,
-Q114417375,Minister of Environment (Cambodia),Q16895178,Ministry of Environment (Cambodia),,Q424,,
-Q59326617,Minister of Foreign Affairs of Cambodia,Q4294408,Ministry of Foreign Affairs and International Cooperation,Q424,Q424,,
-Q113501566,Minister of Health,Q6867092,Ministry of Health,,Q424,,
-Q114417393,Minister of Industry and Handicrafts,Q28219489,Ministry of Industry and Handicrafts,,Q424,,2020
-Q114417394,"Minister of Industry, Science, Technology and Innovation",,,Q424,Q424,2020,
-Q59326295,Minister of Information of Cambodia,Q18345349,Ministry of Information,Q424,Q424,,
-Q113501549,Minister of Interior,Q6867226,Ministry of Interior,,Q424,,
-Q114417280,Minister of Justice,Q56290001,Ministry of Justice,,Q424,,
-Q114417377,Minister of Labour and Vocational Training,Q30600264,Ministry of Labour and Vocational Training,,Q424,,
-Q114417297,"Minister of Land Management, Urban Planning and Construction",Q6867354,"Ministry of Land Management, Urban Planning and Construction",,Q424,,
-Q114417383,Minister of Mines and Energy,Q6867189,Ministry of Mines and Energy,,Q424,,
-Q62063457,Minister of National Assembly–Senate Relations and Inspection,,,Q424,Q424,,
-Q113501557,Minister of National Defence of Cambodia,Q6867382,Ministry of National Defence of Cambodia,,Q424,,
-Q114417381,Minister of Planning,Q6867445,Ministry of Planning,,Q424,,
-Q114417384,"Minister of Posts and Telecommunications, Cambodia",Q6867455,"Ministry of Posts and Telecommunications, Cambodia",,Q424,,
-Q114417386,Minister of Public Works and Transport,Q6867483,Ministry of Public Works and Transport,,Q424,,
-Q114417390,Minister of Rural Development,Q25203582,Ministry of Rural Development,,Q424,,
-Q114417432,"Minister of Social Affairs, Veterans and Youth Rehabilitation",,,Q424,Q424,,
-Q114417459,Minister of Tourism,Q17064074,Ministry of Tourism,,Q424,,
-Q114417484,Minister of Water Resources and Meteorology,,,Q424,Q424,,
-Q114417498,Minister of Women's Affairs,Q30668031,Ministry of Women's Affairs,,Q424,,
-Q114419520,Minister of the Royal Palace,,,Q424,Q424,,
-Q1999325,Prime Minister of Cambodia,,,Q424,Q424,,
-Q114417500,Secretary of State for Civil Aviation,Q7603523,State Secretariat of Civil Aviation,,Q424,,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q29146839,Deputy Prime Minister of Cambodia,,,Q424,Q424,,,12
+Q114418549,Minister in Charge of the Office of the Council of Ministers,,,Q424,Q424,,,1
+Q114417309,"Minister of Agriculture, Forestry and Fisheries",Q6866612,"Ministry of Agriculture, Forestry and Fisheries",Q424,Q424,,,5
+Q114417357,Minister of Civil Service,,,Q424,Q424,,,2
+Q114417331,Minister of Commerce,Q6866671,Ministry of Commerce,,Q424,,,3
+Q114417369,Minister of Cults and Religion,,,Q424,Q424,,,2
+Q114417371,Minister of Culture and Fine Arts,Q6866728,Ministry of Culture and Fine Arts,,Q424,,,1
+Q113501533,Minister of Economy and Finance (Cambodia),Q10964814,Ministry of Economy and Finance (Cambodia),,Q424,,,2
+Q114417374,"Minister of Education, Youth and Sport",Q11047097,"Ministry of Education, Youth and Sport",,Q424,,,1
+Q114417375,Minister of Environment (Cambodia),Q16895178,Ministry of Environment (Cambodia),,Q424,,,1
+Q59326617,Minister of Foreign Affairs of Cambodia,Q4294408,Ministry of Foreign Affairs and International Cooperation,Q424,Q424,,,3
+Q113501566,Minister of Health,Q6867092,Ministry of Health,,Q424,,,1
+Q114417393,Minister of Industry and Handicrafts,Q28219489,Ministry of Industry and Handicrafts,,Q424,,2020,1
+Q114417394,"Minister of Industry, Science, Technology and Innovation",,,Q424,Q424,2020,,1
+Q59326295,Minister of Information of Cambodia,Q18345349,Ministry of Information,Q424,Q424,,,4
+Q113501549,Minister of Interior,Q6867226,Ministry of Interior,,Q424,,,1
+Q114417280,Minister of Justice,Q56290001,Ministry of Justice,,Q424,,,2
+Q114417377,Minister of Labour and Vocational Training,Q30600264,Ministry of Labour and Vocational Training,,Q424,,,1
+Q114417297,"Minister of Land Management, Urban Planning and Construction",Q6867354,"Ministry of Land Management, Urban Planning and Construction",,Q424,,,1
+Q114417383,Minister of Mines and Energy,Q6867189,Ministry of Mines and Energy,,Q424,,,1
+Q62063457,Minister of National Assembly–Senate Relations and Inspection,,,Q424,Q424,,,1
+Q113501557,Minister of National Defence of Cambodia,Q6867382,Ministry of National Defence of Cambodia,,Q424,,,1
+Q114417381,Minister of Planning,Q6867445,Ministry of Planning,,Q424,,,1
+Q114417384,"Minister of Posts and Telecommunications, Cambodia",Q6867455,"Ministry of Posts and Telecommunications, Cambodia",,Q424,,,2
+Q114417386,Minister of Public Works and Transport,Q6867483,Ministry of Public Works and Transport,,Q424,,,2
+Q114417390,Minister of Rural Development,Q25203582,Ministry of Rural Development,,Q424,,,2
+Q114417432,"Minister of Social Affairs, Veterans and Youth Rehabilitation",,,Q424,Q424,,,1
+Q114417459,Minister of Tourism,Q17064074,Ministry of Tourism,,Q424,,,1
+Q114417484,Minister of Water Resources and Meteorology,,,Q424,Q424,,,1
+Q114417498,Minister of Women's Affairs,Q30668031,Ministry of Women's Affairs,,Q424,,,1
+Q114419520,Minister of the Royal Palace,,,Q424,Q424,,,1
+Q1999325,Prime Minister of Cambodia,,,Q424,Q424,,,36
+Q114417500,Secretary of State for Civil Aviation,Q7603523,State Secretariat of Civil Aviation,,Q424,,,1
