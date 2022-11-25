@@ -1,8 +1,7 @@
 item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
 Q29146839,Deputy Prime Minister of Cambodia,,,Q424,Q424,,
 Q114418549,Minister in Charge of the Office of the Council of Ministers,,,Q424,Q424,,
-Q114417309,"Minister of Agriculture, Forestry and Fisheries",Q6866612,"Ministry of Agriculture, Forestry and Fisheries",,Q424,,
-Q114418480,"Minister of Agriculture, Forestry and Fisheries",,,Q424,Q424,,
+Q114417309,"Minister of Agriculture, Forestry and Fisheries",Q6866612,"Ministry of Agriculture, Forestry and Fisheries",Q424,Q424,,
 Q114417357,Minister of Civil Service,,,Q424,Q424,,
 Q114417331,Minister of Commerce,Q6866671,Ministry of Commerce,,Q424,,
 Q114417369,Minister of Cults and Religion,,,Q424,Q424,,
