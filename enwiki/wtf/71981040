@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Dith Tina (born 7 January 1979) is a Cambodian politician and engineer who currently serves as Minister of Agriculture, Forestry and Fisheries.",
+              "text": "Dith Tina (ឌិត ទីណា; born 7 January 1979) is a Cambodian politician and engineer who currently serves as Minister of Agriculture, Forestry and Fisheries.",
               "links": [
                 {
                   "text": "Cambodian",
@@ -61,6 +61,18 @@
       ],
       "templates": [
         {
+          "description": "Cambodian politician and engineer",
+          "template": "short description"
+        },
+        {
+          "lang": "Cambodian",
+          "list": [
+            "Dith",
+            "Tina"
+          ],
+          "template": "family name hatnote"
+        },
+        {
           "year": "1979",
           "month": "1",
           "day": "7",
@@ -72,6 +84,9 @@
         {
           "name": {
             "text": "Dith Tina"
+          },
+          "native_name": {
+            "text": "ឌិត ទីណា"
           },
           "office": {
             "text": "Minister of Agriculture, Forestry and Fisheries",
@@ -112,16 +127,11 @@
             "text": "January 7, 1979"
           },
           "birth_place": {
-            "text": "Phnom Penh, Kampuchea",
+            "text": "Phnom Penh, Cambodia",
             "links": [
               {
                 "type": "internal",
                 "page": "Phnom Penh"
-              },
-              {
-                "text": "Kampuchea",
-                "type": "internal",
-                "page": "Democratic Kampuchea"
               }
             ]
           },

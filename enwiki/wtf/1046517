@@ -404,7 +404,7 @@
           "year": "2017",
           "location": "Cambodia",
           "publisher": "The Sleuk Rith Institute",
-          "page": "198-201",
+          "pages": "198–201",
           "isbn": "9789924907855",
           "edition": "2nd",
           "template": "citation",
@@ -621,7 +621,7 @@
           "year": "2017",
           "location": "Cambodia",
           "publisher": "The Sleuk Rith Institute",
-          "page": "136-137",
+          "pages": "136–137",
           "isbn": "9789924907855",
           "edition": "2nd",
           "template": "citation",
@@ -643,7 +643,7 @@
           "year": "2017",
           "location": "Cambodia",
           "publisher": "The Sleuk Rith Institute",
-          "page": "139-141",
+          "pages": "139–141",
           "isbn": "9789924907855",
           "edition": "2nd",
           "template": "citation",
@@ -1109,7 +1109,7 @@
               ]
             },
             {
-              "text": "In his first speech as monarch, he acknowledged words of wisdom imparted to him by his father and pledged to be a king of the people by saying: \"My august father, at the very moment of my election as King of Cambodia by the highly respected Throne Council, said to me . . . 'it is by being in contact with the people and the realities of the country that one learns how to become more and more capable of serving, defending and developing Cambodia and the Cambodian nation.' My respected and beloved compatriots, I will always be your faithful and devoted servant. I will never live apart from the beloved people. The Royal House will remain a transparent house and for me there will never be an ivory tower\""
+              "text": "In his first speech as monarch, he acknowledged words of wisdom imparted to him by his father and pledged to be a king of the people by saying:"
             }
           ]
         },
@@ -1126,8 +1126,10 @@
       ],
       "templates": [
         {
-          "text": "My august father, at the very moment of my election as King of Cambodia by the highly respected Throne Council, said to me . . . 'it is by being in contact with the people and the realities of the country that one learns how to become more and more capable of serving, defending and developing Cambodia and the Cambodian nation.' My respected and beloved compatriots, I will always be your faithful and devoted servant. I will never live apart from the beloved people. The Royal House will remain a transparent house and for me there will never be an ivory tower",
-          "template": "quote"
+          "list": [
+            "My august father, at the very moment of my election as King of Cambodia by the highly respected Throne Council, said to me . . . 'it is by being in contact with the people and the realities of the country that one learns how to become more and more capable of serving, defending and developing Cambodia and the Cambodian nation.' My respected and beloved compatriots, I will always be your faithful and devoted servant. I will never live apart from the beloved people. The Royal House will remain a transparent house and for me there will never be an ivory tower"
+          ],
+          "template": "blockquote"
         }
       ],
       "references": [
@@ -1168,24 +1170,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.irishexaminer.com/world/arid-10045683.html",
-          "title": "Son of Cambodian king 'ready to accept crown'",
-          "work": "Irish Examiner",
-          "date": "11 October 2004",
-          "access-date": "2 April 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.phnompenhpost.com/national/king-sihamoni-arrives",
-          "title": "King Sihamoni arrives",
-          "work": "Phnom Penh Post",
-          "date": "22 October 2004",
-          "access-date": "24 April 2022",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "WRAP Arrival of Cambodia's new King Norodom Sihamoni",
           "url": "https://www.youtube.com/watch?v=jL_VOHRvM5s",
           "archive-url": "https://ghostarchive.org/varchive/jL_VOHRvM5s",
@@ -1219,24 +1203,6 @@
           "type": "av media"
         },
         {
-          "url": "https://www.phnompenhpost.com/national/king-sihamoni-arrives",
-          "title": "King Sihamoni arrives",
-          "work": "Phnom Penh Post",
-          "date": "22 October 2004",
-          "access-date": "24 April 2022",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.phnompenhpost.com/post-plus/when-sihamoni-became-king",
-          "title": "When Sihamoni became King",
-          "work": "The Phnom Penh Post",
-          "date": "14 May 2009",
-          "access-date": "4 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "http://news.bbc.co.uk/2/hi/asia-pacific/3964157.stm",
           "title": "Cambodia's muted coronation",
           "work": "BBC News",
@@ -1250,15 +1216,6 @@
           "title": "Cambodia's New King Gives First Address",
           "publisher": "NBC News",
           "date": "30 October 2004",
-          "access-date": "4 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.phnompenhpost.com/post-plus/when-sihamoni-became-king",
-          "title": "When Sihamoni became King",
-          "work": "The Phnom Penh Post",
-          "date": "14 May 2009",
           "access-date": "4 September 2021",
           "template": "citation",
           "type": "news"
@@ -1294,6 +1251,42 @@
           "access-date": "6 September 2021}}{{cbignore|undefined",
           "template": "citation",
           "type": "av media"
+        },
+        {
+          "url": "https://www.irishexaminer.com/world/arid-10045683.html",
+          "title": "Son of Cambodian king 'ready to accept crown'",
+          "work": "Irish Examiner",
+          "date": "11 October 2004",
+          "access-date": "2 April 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.phnompenhpost.com/national/king-sihamoni-arrives",
+          "title": "King Sihamoni arrives",
+          "work": "Phnom Penh Post",
+          "date": "22 October 2004",
+          "access-date": "24 April 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.phnompenhpost.com/post-plus/when-sihamoni-became-king",
+          "title": "When Sihamoni became King",
+          "work": "The Phnom Penh Post",
+          "date": "14 May 2009",
+          "access-date": "4 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.phnompenhpost.com/post-plus/when-sihamoni-became-king",
+          "title": "When Sihamoni became King",
+          "work": "The Phnom Penh Post",
+          "date": "14 May 2009",
+          "access-date": "4 September 2021",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -1627,15 +1620,6 @@
           "type": "web"
         },
         {
-          "url": "https://www.khmertimeskh.com/50856875/the-unspoken-truth-of-king-sihamonis-generous-spirit",
-          "title": "The unspoken truth of King Sihamoni's generous spirit",
-          "work": "Khmer Times",
-          "date": "14 May 2021",
-          "access-date": "4 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.phnompenhpost.com/national/king-gives-victims-flood",
           "title": "King gives to victims of flood",
           "work": "The Phnom Penh Post",
@@ -1655,15 +1639,6 @@
           "access-date": "6 September 2021}}{{cbignore|undefined",
           "template": "citation",
           "type": "av media"
-        },
-        {
-          "url": "https://www.khmertimeskh.com/50655493/citizens-reflect-on-king-sihamonis-legacy-on-coronation-day/",
-          "title": "Citizens reflect on King Sihamoni's legacy on Coronation Day",
-          "work": "Khmer Times",
-          "date": "30 October 2019",
-          "access-date": "15 April 2022",
-          "template": "citation",
-          "type": "news"
         },
         {
           "url": "http://tpocambodia.org/wp-content/uploads/2015/08/TPO-Newsletter-2015-06.pdf",
@@ -1707,15 +1682,6 @@
           "work": "The Phnom Penh Post",
           "date": "29 April 2021",
           "access-date": "4 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/07/27/royals-chip-in-to-aid-demining-efforts",
-          "title": "Royals chip in to aid demining efforts",
-          "publisher": "TheStar",
-          "date": "27 July 2022",
-          "access-date": "31 July 2022",
           "template": "citation",
           "type": "news"
         },
@@ -1776,6 +1742,24 @@
           "language": "en-US",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.khmertimeskh.com/50856875/the-unspoken-truth-of-king-sihamonis-generous-spirit",
+          "title": "The unspoken truth of King Sihamoni's generous spirit",
+          "work": "Khmer Times",
+          "date": "14 May 2021",
+          "access-date": "4 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.khmertimeskh.com/50655493/citizens-reflect-on-king-sihamonis-legacy-on-coronation-day/",
+          "title": "Citizens reflect on King Sihamoni's legacy on Coronation Day",
+          "work": "Khmer Times",
+          "date": "30 October 2019",
+          "access-date": "15 April 2022",
+          "template": "citation",
+          "type": "news"
         },
         {
           "date": "2 February 2010",
@@ -1856,6 +1840,15 @@
           "language": "en-US",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/07/27/royals-chip-in-to-aid-demining-efforts",
+          "title": "Royals chip in to aid demining efforts",
+          "publisher": "TheStar",
+          "date": "27 July 2022",
+          "access-date": "31 July 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -1929,24 +1922,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.rfa.org/english/news/cambodia/intervention-05142020205944.html",
-          "title": "Cambodian Opposition Member Urges King Sihamoni to Intervene in Political Deadlock",
-          "publisher": "Radio Free Asia",
-          "date": "14 May 2020",
-          "access-date": "7 September 2021",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "url": "https://southeastasiaglobe.com/sochua-calls-on-king/",
-          "title": "'Be a leader': Sochua calls on king to intervene to ensure her return",
-          "publisher": "Southeast Asia Globe",
-          "date": "5 January 2021",
-          "access-date": "17 April 2022",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
           "url": "https://www.eastasiaforum.org/2013/10/26/the-cambodian-monarchy-must-step-back-from-politics/",
           "title": "The Cambodian monarchy must step back from politics",
           "work": "East Asia Forum",
@@ -1990,6 +1965,24 @@
           "access-date": "19 March 2022",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "url": "https://www.rfa.org/english/news/cambodia/intervention-05142020205944.html",
+          "title": "Cambodian Opposition Member Urges King Sihamoni to Intervene in Political Deadlock",
+          "publisher": "Radio Free Asia",
+          "date": "14 May 2020",
+          "access-date": "7 September 2021",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://southeastasiaglobe.com/sochua-calls-on-king/",
+          "title": "'Be a leader': Sochua calls on king to intervene to ensure her return",
+          "publisher": "Southeast Asia Globe",
+          "date": "5 January 2021",
+          "access-date": "17 April 2022",
+          "template": "citation",
+          "type": "citation"
         },
         {
           "url": "https://www.phnompenhpost.com/post-plus/king-unite-country-gives-monarchy-life-after-sihanouk",
@@ -2627,15 +2620,6 @@
           "type": "news"
         },
         {
-          "url": "https://english.cambodiadaily.com/editors-choice/king-wades-politics-call-fearless-vote-126805/",
-          "title": "King Wades Into Politics With Call for Fearless Vote",
-          "work": "Cambodia Daily",
-          "date": "21 March 2017",
-          "access-date": "3 August 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.voacambodia.com/a/king-sihamoni-urges-cambodians-to-vote-in-upcoming-elections/3777290.html",
           "title": "King Sihamoni Urges Cambodians to Vote in Upcoming Elections",
           "work": "VOA News Cambodia",
@@ -2663,20 +2647,29 @@
           "type": "news"
         },
         {
-          "url": "https://asiatimes.com/2021/01/does-cambodia-have-a-puppet-king/",
-          "title": "Does Cambodia have a ‘puppet king’?",
-          "work": "Asia Times",
-          "date": "11 January 2021",
-          "access-date": "9 August 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.voacambodia.com/a/king-departs-for-china-amid-coronavirus-pandemic-and-the-potential-state-of-emergency-/5353570.html",
           "title": "King Departs for China Amid Coronavirus Pandemic and the Potential State of Emergency",
           "work": "VOA News Cambodia",
           "date": "31 March 2020",
           "access-date": "13 August 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://english.cambodiadaily.com/editors-choice/king-wades-politics-call-fearless-vote-126805/",
+          "title": "King Wades Into Politics With Call for Fearless Vote",
+          "work": "Cambodia Daily",
+          "date": "21 March 2017",
+          "access-date": "3 August 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://asiatimes.com/2021/01/does-cambodia-have-a-puppet-king/",
+          "title": "Does Cambodia have a ‘puppet king’?",
+          "work": "Asia Times",
+          "date": "11 January 2021",
+          "access-date": "9 August 2022",
           "template": "citation",
           "type": "news"
         }
@@ -2975,15 +2968,6 @@
           "access-date": "3 August 2022",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "url": "https://english.cambodiadaily.com/editors-choice/king-wades-politics-call-fearless-vote-126805/",
-          "title": "King Wades Into Politics With Call for Fearless Vote",
-          "work": "Cambodia Daily",
-          "date": "21 March 2017",
-          "access-date": "3 August 2022",
-          "template": "citation",
-          "type": "news"
         }
       ]
     },
@@ -3103,7 +3087,7 @@
               ]
             },
             {
-              "text": "Additionally, as King, he presides over the annual Bon Om Touk, a major festive cultural event on the yearly calendar with ancient roots dating back to the Khmer Empire,  in conjunction with other traditionally important national events like for example, Independence Day, the Royal Ploughing Ceremony, and Khmer New Year.",
+              "text": "Additionally, as King, he presides over the annual Bon Om Touk, a major festive cultural event on the yearly calendar with ancient roots dating back to the Khmer Empire, in conjunction with other traditionally important national events like for example, Independence Day, the Royal Ploughing Ceremony, and Khmer New Year.",
               "links": [
                 {
                   "type": "internal",
@@ -3210,24 +3194,6 @@
       ],
       "references": [
         {
-          "url": "https://www.khmertimeskh.com/50856883/king-norodom-sihamoni-and-his-love-for-arts/",
-          "title": "King Norodom Sihamoni and his love for Arts",
-          "work": "Khmer Times",
-          "date": "14 May 2021",
-          "access-date": "4 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.international-dance-day.org/king_norodom_sihamoni.html",
-          "title": "International Dance Day - His Majesty King Norodom SIHAMONI of Cambodia",
-          "publisher": "International Theatre Institute",
-          "date": "2016",
-          "access-date": "24 April 2022",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "https://www.international-dance-day.org/pdfs/IDD_2006_Preah.pdf",
           "title": "Sa Majesté Preah Bat Samdech Preah Boromneath Norodom Sihamoni, Roi du Cambodge 2006",
           "publisher": "International Theatre Institute",
@@ -3308,15 +3274,6 @@
           "work": "The Phnom Penh Post",
           "date": "29 October 2014",
           "access-date": "25 April 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.khmertimeskh.com/50856883/king-norodom-sihamoni-and-his-love-for-arts/",
-          "title": "King Norodom Sihamoni and his love for Arts",
-          "work": "Khmer Times",
-          "date": "14 May 2021",
-          "access-date": "4 September 2021",
           "template": "citation",
           "type": "news"
         },
@@ -3414,15 +3371,6 @@
           "type": "web"
         },
         {
-          "url": "https://en.unesco.org/news/his-majesty-norodom-sihamoni-king-cambodia-held-audience-icc-angkors-delegation",
-          "title": "His Majesty NORODOM Sihamoni, the King of Cambodia held audience with the ICC-Angkor's delegation",
-          "publisher": "UNESCO",
-          "date": "2 March 2020",
-          "access-date": "5 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://en.unesco.org/icc-angkor-25",
           "title": "ICC-Angkor: 25 years of model international cooperation",
           "publisher": "UNESCO",
@@ -3459,11 +3407,38 @@
           "type": "news"
         },
         {
+          "url": "https://www.khmertimeskh.com/50856883/king-norodom-sihamoni-and-his-love-for-arts/",
+          "title": "King Norodom Sihamoni and his love for Arts",
+          "work": "Khmer Times",
+          "date": "14 May 2021",
+          "access-date": "4 September 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.international-dance-day.org/king_norodom_sihamoni.html",
+          "title": "International Dance Day - His Majesty King Norodom SIHAMONI of Cambodia",
+          "publisher": "International Theatre Institute",
+          "date": "2016",
+          "access-date": "24 April 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.khmertimeskh.com/603508/king-norodom-sihamoni-a-morale-model-to-the-people/",
           "title": "King Norodom Sihamoni, a 'morale model' to the people",
           "work": "Khmer Times",
           "date": "14 May 2019",
           "access-date": "20 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://en.unesco.org/news/his-majesty-norodom-sihamoni-king-cambodia-held-audience-icc-angkors-delegation",
+          "title": "His Majesty NORODOM Sihamoni, the King of Cambodia held audience with the ICC-Angkor's delegation",
+          "publisher": "UNESCO",
+          "date": "2 March 2020",
+          "access-date": "5 September 2021",
           "template": "citation",
           "type": "news"
         }
@@ -3698,7 +3673,7 @@
               ]
             },
             {
-              "text": "Similarly, de facto Leader of the Opposition Sam Rainsy, shares this sentiment, expressing admiration for his ability to bring people together in the national interest, although amid internal political developments that is seen as indicative of Democratic backsliding, this view held by Rainsy has not always been consistent,  and it is within this juxtaposition, from a power politics analytical standpoint, that there are often divergent perspectives concerning the King, between those who implore for his active politicism    and those who advocate he sustain his guarded Apoliticism.",
+              "text": "Similarly, de facto Leader of the Opposition Sam Rainsy, shares this sentiment, expressing admiration for his ability to bring people together in the national interest, although amid internal political developments that is seen as indicative of Democratic backsliding, this view held by Rainsy has not always been consistent, and it is within this juxtaposition, from a power politics analytical standpoint, that there are often divergent perspectives concerning the King, between those who implore for his active politicism   and those who advocate he sustain his guarded Apoliticism.",
               "links": [
                 {
                   "type": "internal",
@@ -3738,7 +3713,7 @@
         {
           "sentences": [
             {
-              "text": "Scholar Milton Osborne, regarded as amongst the world’s most distinguished authors specializing in Southeast Asia, commends him as a \"dedicated servant of his people\" that is \"cultured and disciplined”, but he questions the survival of the monarchical institution in a post-Sihamoni era.  This is in part, due to past political instability, including historical tensions between the royal family and Prime Minister Hun Sen.     However, in recent years, Prime Minister Sen has given steadfast assurances which therefore signals his government's intent to preserve the monarchy long into the future.   Prominent Cambodian history professor, Sambo Manara credits Sihamoni as a \"morale model\" for all Khmer people whom exudes a calm and kind demeanor, underscored by a sincere warmth towards his subjects, notwithstanding some misconceived notions about the King’s role from within some sectors of the population, in particular, the youth demographic.",
+              "text": "Scholar Milton Osborne, regarded as amongst the world’s most distinguished authors specializing in Southeast Asia, commends him as a \"dedicated servant of his people\" that is \"cultured and disciplined”, but he questions the survival of the monarchical institution in a post-Sihamoni era. This is in part, due to past political instability, including historical tensions between the royal family and Prime Minister Hun Sen.    However, in recent years, Prime Minister Sen has given steadfast assurances which therefore signals his government's intent to preserve the monarchy long into the future.   Prominent Cambodian history professor, Sambo Manara credits Sihamoni as a \"morale model\" for all Khmer people whom exudes a calm and kind demeanor, underscored by a sincere warmth towards his subjects, notwithstanding some misconceived notions about the King’s role from within some sectors of the population, in particular, the youth demographic.",
               "links": [
                 {
                   "type": "internal",
@@ -3880,15 +3855,6 @@
           "type": "web"
         },
         {
-          "url": "https://www.khmertimeskh.com/50655493/citizens-reflect-on-king-sihamonis-legacy-on-coronation-day/",
-          "title": "Citizens reflect on King Sihamoni's legacy on Coronation Day",
-          "work": "Khmer Times",
-          "date": "30 October 2019",
-          "access-date": "15 April 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.khmertimeskh.com/545117/king-sihamonis-14-year-reign-celebrated/",
           "title": "King Sihamoni's 14-year reign celebrated",
           "work": "Khmer Times",
@@ -3916,29 +3882,11 @@
           "type": "news"
         },
         {
-          "url": "https://www.reuters.com/article/us-cambodia-politics-idUSKBN1DG1BO",
-          "title": "Cambodia's main opposition party dissolved by Supreme Court",
-          "work": "Reuters",
-          "date": "16 November 2017",
-          "access-date": "26 March 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.ohchr.org/en/press-releases/2021/10/cambodia-stop-backsliding-and-expand-freedom-un-expert",
           "title": "Cambodia: Stop backsliding and expand freedom – UN expert",
           "work": "United Nations Office of the High Commissioner for Human Rights",
           "date": "6 October 2021",
           "access-date": "7 July 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.phnompenhpost.com/national-politics/rainsy-faces-five-years-prison-insulting-king",
-          "title": "Rainsy faces up to five years in prison for insulting King",
-          "work": "The Phnom Penh Post",
-          "date": "28 December 2020",
-          "access-date": "26 March 2022",
           "template": "citation",
           "type": "news"
         },
@@ -3961,24 +3909,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.rfa.org/english/news/cambodia/intervention-05142020205944.html",
-          "title": "Cambodian Opposition Member Urges King Sihamoni to Intervene in Political Deadlock",
-          "publisher": "Radio Free Asia",
-          "date": "14 May 2020",
-          "access-date": "7 September 2021",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "url": "https://southeastasiaglobe.com/sochua-calls-on-king/",
-          "title": "'Be a leader': Sochua calls on king to intervene to ensure her return",
-          "publisher": "Southeast Asia Globe",
-          "date": "5 January 2021",
-          "access-date": "17 April 2022",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
           "template": "citation",
           "type": "inline",
           "data": {},
@@ -3989,42 +3919,6 @@
           "title": "Cambodia’s ‘quiet king’ must find his political voice",
           "work": "Asia Times",
           "date": "15 January 2019",
-          "access-date": "9 August 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.phnompenhpost.com/post-plus/king-unite-country-gives-monarchy-life-after-sihanouk",
-          "title": "A King to unite the country gives the monarchy life after Sihanouk",
-          "work": "The Phnom Penh Post",
-          "date": "14 May 2009",
-          "access-date": "19 March 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://english.cambodiadaily.com/news/king-sihamoni-seeks-neutrality-in-a-divided-nation-45492/",
-          "title": "King Sihamoni Seeks Neutrality in a Deeply Divided Nation",
-          "work": "The Cambodia Daily",
-          "date": "20 October 2013",
-          "access-date": "19 March 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.eastasiaforum.org/2013/10/26/the-cambodian-monarchy-must-step-back-from-politics/",
-          "title": "The Cambodian monarchy must step back from politics",
-          "work": "East Asia Forum",
-          "date": "26 October 2013",
-          "access-date": "17 April 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://asiatimes.com/2021/01/does-cambodia-have-a-puppet-king/",
-          "title": "Does Cambodia have a ‘puppet king’?",
-          "work": "Asia Times",
-          "date": "11 January 2021",
           "access-date": "9 August 2022",
           "template": "citation",
           "type": "news"
@@ -4046,15 +3940,6 @@
           "access-date": "7 May 2022",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "url": "https://www.seattletimes.com/nation-world/cambodias-king-seen-as-a-prisoner-in-his-palace/",
-          "title": "Cambodia’s king seen as a ‘prisoner’ in his palace",
-          "work": "The Seattle Times",
-          "date": "29 May 2011",
-          "access-date": "8 July 2022",
-          "template": "citation",
-          "type": "news"
         },
         {
           "url": "https://www.bangkokpost.com/world/333954/cambodian-monarchy-fading-into-history",
@@ -4097,15 +3982,6 @@
           "title": "Hun Sen: the \"worms\" that must die",
           "work": "Phnom Penh Post",
           "date": "1 December 1995",
-          "access-date": "8 July 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://english.cambodiadaily.com/news/citizens-worry-over-pms-threat-to-monarchy-50332/",
-          "title": "Citizens Worry Over PM’s Threat to Monarchy",
-          "work": "The Cambodia Daily",
-          "date": "19 October 2005",
           "access-date": "8 July 2022",
           "template": "citation",
           "type": "news"
@@ -4228,6 +4104,24 @@
           "publisher": "Yahoo News",
           "date": "20 June 2018",
           "access-date": "26 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.phnompenhpost.com/national-politics/rainsy-faces-five-years-prison-insulting-king",
+          "title": "Rainsy faces up to five years in prison for insulting King",
+          "work": "The Phnom Penh Post",
+          "date": "28 December 2020",
+          "access-date": "26 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.seattletimes.com/nation-world/cambodias-king-seen-as-a-prisoner-in-his-palace/",
+          "title": "Cambodia’s king seen as a ‘prisoner’ in his palace",
+          "work": "The Seattle Times",
+          "date": "29 May 2011",
+          "access-date": "8 July 2022",
           "template": "citation",
           "type": "news"
         },
@@ -4402,15 +4296,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.phnompenhpost.com/national-politics/rainsy-faces-five-years-prison-insulting-king",
-          "title": "Rainsy faces up to five years in prison for insulting King",
-          "work": "The Phnom Penh Post",
-          "date": "28 December 2020",
-          "access-date": "26 March 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://www.bbc.com/news/world-asia-38487986",
           "title": "Cambodia hunting suspects over doctored porn image of king",
           "work": "BBC News",
@@ -4500,29 +4385,11 @@
           "type": "news"
         },
         {
-          "url": "https://www.phnompenhpost.com/national/reign-quiet-king",
-          "title": "Reign of the quiet king",
-          "work": "The Phnom Penh Post",
-          "date": "29 October 2014",
-          "access-date": "8 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://theculturetrip.com/asia/cambodia/articles/the-story-behind-cambodias-ballet-dancing-king/",
           "title": "The Story of Cambodia's Ballet-Dancing King",
           "work": "The Culture Trip Ltd",
           "date": "17 January 2018",
           "access-date": "24 April 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.irishexaminer.com/world/arid-10045683.html",
-          "title": "Son of Cambodian king 'ready to accept crown'",
-          "work": "Irish Examiner",
-          "date": "11 October 2004",
-          "access-date": "2 April 2022",
           "template": "citation",
           "type": "news"
         },
@@ -4545,6 +4412,15 @@
           "language": "en-US",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "url": "https://www.phnompenhpost.com/national/reign-quiet-king",
+          "title": "Reign of the quiet king",
+          "work": "The Phnom Penh Post",
+          "date": "29 October 2014",
+          "access-date": "8 September 2021",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -4670,15 +4546,6 @@
       ],
       "references": [
         {
-          "url": "https://www.phnompenhpost.com/national/reign-quiet-king",
-          "title": "Reign of the quiet king",
-          "work": "The Phnom Penh Post",
-          "date": "29 October 2014",
-          "access-date": "8 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "https://news.sky.com/story/kate-wont-obey-wills-in-wedding-vows-10488467",
           "title": "Kate 'Won't Obey Wills' In Wedding Vows",
           "publisher": "Sky News",
@@ -4693,15 +4560,6 @@
           "work": "The Phnom Penh Post",
           "date": "25 April 2011",
           "access-date": "8 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.seattletimes.com/nation-world/cambodias-king-seen-as-a-prisoner-in-his-palace/",
-          "title": "Cambodia’s king seen as a ‘prisoner’ in his palace",
-          "work": "The Seattle Times",
-          "date": "29 May 2011",
-          "access-date": "8 July 2022",
           "template": "citation",
           "type": "news"
         }
@@ -5348,15 +5206,6 @@
       ],
       "references": [
         {
-          "url": "https://en.unesco.org/news/his-majesty-norodom-sihamoni-king-cambodia-held-audience-icc-angkors-delegation",
-          "title": "His Majesty NORODOM Sihamoni, the King of Cambodia held audience with the ICC-Angkor's delegation",
-          "publisher": "UNESCO",
-          "date": "2 March 2020",
-          "access-date": "5 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "date": "15 December 2009",
           "title": "MEDIA RELEASE - CELEBRATING A DECADE OF COLLABORATIVE RESEARCH AT ANGKOR",
           "url": "https://cambodia.embassy.gov.au/files/penh/Media%20Release-Celebrating%20a%20Decade%20of%20Collaborative%20Research%20at%20Angkor-Eng.pdf",
@@ -5510,15 +5359,6 @@
           "access-date": "31 July 2022",
           "publisher": "Canal Academies",
           "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.international-dance-day.org/king_norodom_sihamoni.html",
-          "title": "International Dance Day - His Majesty King Norodom SIHAMONI of Cambodia",
-          "publisher": "International Theatre Institute",
-          "date": "2016",
-          "access-date": "24 April 2022",
           "template": "citation",
           "type": "web"
         },
@@ -5680,15 +5520,6 @@
       ],
       "references": [
         {
-          "url": "https://www.khmertimeskh.com/50655493/citizens-reflect-on-king-sihamonis-legacy-on-coronation-day/",
-          "title": "Citizens reflect on King Sihamoni's legacy on Coronation Day",
-          "work": "Khmer Times",
-          "date": "30 October 2019",
-          "access-date": "15 April 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "http://www.krousar-thmey.org/wp-content/uploads/2017/06/ANNUAL-REPORT-2016_EN-compressed.pdf",
           "title": "Krousar Thmey Annual Report 2016",
           "publisher": "Krousar Thmey",
@@ -5707,15 +5538,6 @@
           "type": "news"
         },
         {
-          "url": "https://www.khmertimeskh.com/50856875/the-unspoken-truth-of-king-sihamonis-generous-spirit",
-          "title": "The unspoken truth of King Sihamoni's generous spirit",
-          "work": "Khmer Times",
-          "date": "14 May 2021",
-          "access-date": "4 September 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "url": "http://www.cambodiaembassy.ch/bulletin/sept2012.pdf",
           "title": "Royal Embassy of Cambodia to Switzerland, Year: 5, No: 46, Bulletin: September 2012",
           "work": "Royal Embassy of Cambodia to Switzerland",
@@ -5730,35 +5552,6 @@
           "publisher": "Waltzing Around Cambodia Onlus",
           "date": "24 April 2022",
           "access-date": "15 April 2022",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/07/27/royals-chip-in-to-aid-demining-efforts",
-          "title": "Royals chip in to aid demining efforts",
-          "publisher": "TheStar",
-          "date": "27 July 2022",
-          "access-date": "31 July 2022",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2007",
-          "title": "PREAH SIHAMONI RAJA BUDDHIST UNIVERSITY",
-          "url": "https://atbu.org/node/33",
-          "access-date": "7 August 2022",
-          "website": "The International Association of Theravada Buddhist Universities",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2022",
-          "title": "Preah Sihamoniraja Buddhist University",
-          "url": "https://sibccsl.com/psb-university/",
-          "access-date": "7 August 2022",
-          "website": "Samadhi International Buddhist Counseling Center",
-          "language": "en-US",
           "template": "citation",
           "type": "web"
         },
@@ -5798,6 +5591,16 @@
           "url": "https://teachthemtofish.org/national-construction-medal/",
           "access-date": "8 August 2022",
           "website": "Teach Them To Fish Foundation",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022",
+          "title": "Preah Sihamoniraja Buddhist University",
+          "url": "https://sibccsl.com/psb-university/",
+          "access-date": "7 August 2022",
+          "website": "Samadhi International Buddhist Counseling Center",
           "language": "en-US",
           "template": "citation",
           "type": "web"
@@ -6030,12 +5833,12 @@
               {
                 "text": "Order of Saint Lazarus",
                 "type": "internal",
-                "page": "Order_of_Saint_Lazarus_(statuted_1910)"
+                "page": "Order of Saint Lazarus (statuted 1910)"
               },
               {
                 "text": "Order of Saint Lazarus",
                 "type": "internal",
-                "page": "Order_of_Saint_Lazarus_(statuted_1910)"
+                "page": "Order of Saint Lazarus (statuted 1910)"
               }
             ]
           }
@@ -6381,16 +6184,6 @@
           "url": "http://apps.rhs.org.uk/horticulturaldatabase/orchidregister/orchiddetails.asp?ID=155809",
           "title": "Search The International Orchid Register - Orchid details: Dendrobium Norodom Sihamoni",
           "access-date": "4 September 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2022",
-          "title": "Preah Sihamoniraja Buddhist University",
-          "url": "https://sibccsl.com/psb-university/",
-          "access-date": "7 August 2022",
-          "website": "Samadhi International Buddhist Counseling Center",
-          "language": "en-US",
           "template": "citation",
           "type": "web"
         },
