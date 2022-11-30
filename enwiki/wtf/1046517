@@ -1429,7 +1429,7 @@
         {
           "url": "https://www.washingtonpost.com/archive/politics/1993/06/19/winner-loser-agree-to-coalition-in-cambodia/33beb58d-6cd5-406d-8391-6fd85ef09b24/",
           "title": "Winner, Loser agree to coalition in Cambodia",
-          "work": "The Washington Post",
+          "newspaper": "The Washington Post",
           "date": "19 June 1993",
           "access-date": "15 July 2022",
           "template": "citation",
@@ -2101,7 +2101,7 @@
         },
         {
           "url": "https://english.cambodiadaily.com/news/citizens-worry-over-pms-threat-to-monarchy-50332/",
-          "title": "Citizens Worry Over PM’s Threat to Monarchy",
+          "title": "Citizens Worry Over PM's Threat to Monarchy",
           "work": "The Cambodia Daily",
           "date": "19 October 2005",
           "access-date": "8 July 2022",
@@ -2300,7 +2300,7 @@
         },
         {
           "url": "https://www.voacambodia.com/a/a-40-2009-08-27-voa4-90171837/1353929.html",
-          "title": "Media Groups Call for Editor’s Release",
+          "title": "Media Groups Call for Editor's Release",
           "work": "VOA News Cambodia",
           "date": "27 August 2009",
           "access-date": "3 August 2022",
@@ -2639,7 +2639,7 @@
         },
         {
           "url": "https://asiatimes.com/2018/05/monarchy-stuck-in-middle-of-cambodias-conflict/",
-          "title": "Monarchy stuck in middle of Cambodia’s conflict",
+          "title": "Monarchy stuck in middle of Cambodia's conflict",
           "work": "Asia Times",
           "date": "25 May 2018",
           "access-date": "7 July 2022",
@@ -2666,7 +2666,7 @@
         },
         {
           "url": "https://asiatimes.com/2021/01/does-cambodia-have-a-puppet-king/",
-          "title": "Does Cambodia have a ‘puppet king’?",
+          "title": "Does Cambodia have a 'puppet king'?",
           "work": "Asia Times",
           "date": "11 January 2021",
           "access-date": "9 August 2022",
@@ -2836,12 +2836,12 @@
         },
         {
           "url": "https://time.com/5175197/cambodia-senate-election-democracy/",
-          "title": "Cambodia’s Ruling Party Just Held Senate Elections. It Won Every Seat",
-          "work": "TIME",
+          "title": "Cambodia's Ruling Party Just Held Senate Elections. It Won Every Seat",
+          "magazine": "TIME",
           "date": "26 February 2018",
           "access-date": "3 August 2022",
           "template": "citation",
-          "type": "news"
+          "type": "magazine"
         },
         {
           "url": "https://www.reuters.com/article/us-cambodia-politics-idUSKBN1HU0P4",
@@ -2872,7 +2872,7 @@
         },
         {
           "url": "https://www.phnompenhpost.com/national/unity-urged-king-west-boycotts-opening",
-          "title": "‘Unity’ urged by King as West ‘boycotts’ opening",
+          "title": "'Unity' urged by King as West 'boycotts' opening",
           "work": "Phnom Penh Post",
           "date": "6 September 2018",
           "access-date": "3 August 2022",
@@ -2899,7 +2899,7 @@
         },
         {
           "url": "https://www.khmertimeskh.com/50859908/pol-ham-and-sokhas-lawyer-granted-political-rehabilitation/",
-          "title": "Pol Ham and Sokha’s lawyer granted political rehabilitation",
+          "title": "Pol Ham and Sokha's lawyer granted political rehabilitation",
           "work": "Khmer Times",
           "date": "20 May 2021",
           "access-date": "3 August 2022",
@@ -3204,7 +3204,7 @@
         },
         {
           "url": "https://www.swissfilms.ch/en/news/l-ombrello-di-beatocello-screened-at-festivities-honouring-beat-richner-s-humanitarian-work-in-cambodia/4692",
-          "title": "L’ombrello di Beatocello screened at festivities honouring Beat Richner’s humanitarian work in Cambodia",
+          "title": "L'ombrello di Beatocello screened at festivities honouring Beat Richner's humanitarian work in Cambodia",
           "work": "SWISS FILMS",
           "date": "25 September 2012",
           "access-date": "11 July 2022",
@@ -3916,7 +3916,7 @@
         },
         {
           "url": "https://asiatimes.com/2019/01/cambodias-quiet-king-must-find-his-political-voice/",
-          "title": "Cambodia’s ‘quiet king’ must find his political voice",
+          "title": "Cambodia's 'quiet king' must find his political voice",
           "work": "Asia Times",
           "date": "15 January 2019",
           "access-date": "9 August 2022",
@@ -3961,7 +3961,7 @@
         },
         {
           "url": "https://apnews.com/article/f7628375acca5a16ea09ba28429dff08",
-          "title": "Cambodian king speaks of suicide over nation’s woes",
+          "title": "Cambodian king speaks of suicide over nation's woes",
           "work": "AP News",
           "date": "13 October 1997",
           "access-date": "8 July 2022",
@@ -3988,7 +3988,7 @@
         },
         {
           "url": "https://www.phnompenhpost.com/national/harm-king-over-my-dead-body/",
-          "title": "Harm King ‘over my dead body’",
+          "title": "Harm King 'over my dead body'",
           "work": "Phnom Penh Post",
           "date": "25 October 2018",
           "access-date": "8 July 2022",
@@ -3997,7 +3997,7 @@
         },
         {
           "url": "https://www.khmertimeskh.com/50997115/we-must-protect-the-throne-says-pm-hun-sen/",
-          "title": "‘We must protect the throne,’ says PM Hun Sen",
+          "title": "'We must protect the throne,' says PM Hun Sen",
           "work": "Khmer Times",
           "date": "29 December 2021",
           "access-date": "8 July 2022",
@@ -4118,7 +4118,7 @@
         },
         {
           "url": "https://www.seattletimes.com/nation-world/cambodias-king-seen-as-a-prisoner-in-his-palace/",
-          "title": "Cambodia’s king seen as a ‘prisoner’ in his palace",
+          "title": "Cambodia's king seen as a 'prisoner' in his palace",
           "work": "The Seattle Times",
           "date": "29 May 2011",
           "access-date": "8 July 2022",
@@ -5354,7 +5354,7 @@
         },
         {
           "date": "12 March 2010",
-          "title": "Installation de Norodom Sihamoni, roi du Cambodge, associé étranger de l’Académie des Inscriptions et Belles-Lettres",
+          "title": "Installation de Norodom Sihamoni, roi du Cambodge, associé étranger de l'Académie des Inscriptions et Belles-Lettres",
           "url": "https://www.canalacademies.com/emissions/sous-la-coupole/academie-des-inscriptions-et-belles-lettres/installation-de-norodom-sihamoni-roi-du-cambodge-associe-etranger-de-lacademie-des-inscriptions-et-belles-lettres?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc",
           "access-date": "31 July 2022",
           "publisher": "Canal Academies",
