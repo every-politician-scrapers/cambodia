@@ -114,6 +114,15 @@
           "template": "birth date and age"
         },
         {
+          "template": "infobox",
+          "type": "person",
+          "data": {
+            "child": {},
+            "alma_mater": {},
+            "website": {}
+          }
+        },
+        {
           "list": [
             "km",
             "Nôroŭttâm Seihâmŭni"
@@ -126,23 +135,6 @@
         }
       ],
       "infoboxes": [
-        {
-          "child": {
-            "text": "yes"
-          },
-          "alma_mater": {
-            "text": "Academy of Performing Arts in Prague",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Academy of Performing Arts in Prague"
-              }
-            ]
-          },
-          "website": {
-            "text": "Official website"
-          }
-        },
         {
           "name": {
             "text": "Norodom Sihamoni\nនរោត្តម សីហមុនី"
@@ -1109,7 +1101,7 @@
               ]
             },
             {
-              "text": "In his first speech as monarch, he acknowledged words of wisdom imparted to him by his father and pledged to be a king of the people by saying:"
+              "text": "In his first speech as monarch, he acknowledged words of wisdom imparted to him by his father and pledged to be a king of the people by saying: \"My august father, at the very moment of my election as King of Cambodia by the highly respected Throne Council, said to me . . . 'it is by being in contact with the people and the realities of the country that one learns how to become more and more capable of serving, defending and developing Cambodia and the Cambodian nation.' My respected and beloved compatriots, I will always be your faithful and devoted servant. I will never live apart from the beloved people. The Royal House will remain a transparent house and for me there will never be an ivory tower\""
             }
           ]
         },
@@ -1126,9 +1118,7 @@
       ],
       "templates": [
         {
-          "list": [
-            "My august father, at the very moment of my election as King of Cambodia by the highly respected Throne Council, said to me . . . 'it is by being in contact with the people and the realities of the country that one learns how to become more and more capable of serving, defending and developing Cambodia and the Cambodian nation.' My respected and beloved compatriots, I will always be your faithful and devoted servant. I will never live apart from the beloved people. The Royal House will remain a transparent house and for me there will never be an ivory tower"
-          ],
+          "text": "My august father, at the very moment of my election as King of Cambodia by the highly respected Throne Council, said to me . . . 'it is by being in contact with the people and the realities of the country that one learns how to become more and more capable of serving, defending and developing Cambodia and the Cambodian nation.' My respected and beloved compatriots, I will always be your faithful and devoted servant. I will never live apart from the beloved people. The Royal House will remain a transparent house and for me there will never be an ivory tower",
           "template": "blockquote"
         }
       ],
