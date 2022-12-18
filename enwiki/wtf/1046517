@@ -2190,7 +2190,7 @@
         {
           "sentences": [
             {
-              "text": "In 2009, Sihamoni upon reviewing the appeals made to him for a pardon to be granted to an opposition-affiliated journalist and editor, Hang Chakra who was jailed on charges of “criminal disinformation”, petitioned the government to support his potential decision to grant a royal pardon.",
+              "text": "In 2009, Sihamoni upon reviewing the appeals made to him for the review of the conviction verdict against opposition-affiliated journalist and editor, Hang Chakra who was jailed on charges of “criminal disinformation”, sought the government's support for a prospective royal pardon.",
               "links": [
                 {
                   "type": "internal",
@@ -2199,7 +2199,13 @@
               ]
             },
             {
-              "text": "This was viewed as a rather interesting move, as usually pardon requests are submitted by the government to the King for approval and rarely ever vice-versa."
+              "text": "The appeals were made to him in his capacity as a member of the Supreme Council of the Magistracy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Council of the Magistracy"
+                }
+              ]
             },
             {
               "text": "This request was reportedly rejected by the government for reasons not stated, but it was eventually later accepted, of which Sihamoni went on to grant a full pardon to Chakra in 2010."
@@ -2308,7 +2314,7 @@
           "type": "news"
         },
         {
-          "url": "https://www.voacambodia.com/a/a-40-2009-08-27-voa4-90171837/1353929.html",
+          "url": "https://cpj.org/data/people/hang-chakra/",
           "title": "Hang Chakra",
           "work": "Committee to Protect Journalists",
           "date": "26 June 2009",
@@ -2321,6 +2327,15 @@
           "title": "Cambodian journalist released from prison in amnesty",
           "work": "Committee to Protect Journalists",
           "date": "27 April 2020",
+          "access-date": "3 August 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.phnompenhpost.com/national/no-help-hang-chakra-council",
+          "title": "No help for Hang Chakra from council",
+          "work": "Phnom Penh Post",
+          "date": "4 September 2009",
           "access-date": "3 August 2022",
           "template": "citation",
           "type": "web"
