@@ -2792,42 +2792,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In the 2022 communal elections, he reiterated his call for all eligible Cambodians to participate in the civic process by exercising their right to vote, and to “not worry about oppression, threats or intimidation from any person or party at all”, something that he had previously urged a few years back in the 2017 communal elections.",
-              "links": [
-                {
-                  "text": "2022 communal elections",
-                  "type": "internal",
-                  "page": "2022 Cambodian communal elections"
-                },
-                {
-                  "text": "right to vote",
-                  "type": "internal",
-                  "page": "right to vote"
-                },
-                {
-                  "text": "2017 communal elections",
-                  "type": "internal",
-                  "page": "2017 Cambodian communal elections"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": []
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Norodom_king_of_Cambodia.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Norodom_king_of_Cambodia.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Norodom_king_of_Cambodia.jpg",
-          "caption": "210px",
-          "links": []
         }
       ],
       "references": [
@@ -2974,13 +2938,144 @@
           "access-date": "4 August 2022",
           "template": "citation",
           "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Elections 2022 and ASEAN summitry",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the 2022 communal elections, he reiterated his call for all eligible Cambodians to participate in the civic process by exercising their right to vote, and to “not worry about oppression, threats or intimidation from any person or party at all”, something that he had previously urged a few years back in the 2017 communal elections.",
+              "links": [
+                {
+                  "text": "2022 communal elections",
+                  "type": "internal",
+                  "page": "2022 Cambodian communal elections"
+                },
+                {
+                  "text": "right to vote",
+                  "type": "internal",
+                  "page": "right to vote"
+                },
+                {
+                  "text": "2017 communal elections",
+                  "type": "internal",
+                  "page": "2017 Cambodian communal elections"
+                }
+              ]
+            }
+          ]
         },
+        {
+          "sentences": [
+            {
+              "text": "At the ASEAN summit in November 2022, Sihamoni hosted regional leaders at the royal palace where he reinforced Cambodia’s commitment to the ASEAN community and emphasised the continued importance of inter-state collaboration in addressing contemporary issues.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ASEAN summit"
+                },
+                {
+                  "type": "internal",
+                  "page": "ASEAN"
+                }
+              ]
+            },
+            {
+              "text": "Later, at the interrelated 43rd General Assembly of the ASEAN Inter-Parliamentary Assembly, he further touched upon several topics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "ASEAN Inter-Parliamentary Assembly"
+                }
+              ]
+            },
+            {
+              "text": "This included the centrality of peace in relation to socio-economic development, investment in healthcare and education, concern regarding the Myanmar conflict, the impact of increasing tensions between the global powers, the threat of nuclear weapons, climate change, and the lingering effects of the COVID-19 pandemic.",
+              "links": [
+                {
+                  "text": "peace",
+                  "type": "internal",
+                  "page": "peace"
+                },
+                {
+                  "text": "Myanmar conflict",
+                  "type": "internal",
+                  "page": "2021–2022 Myanmar civil war"
+                },
+                {
+                  "text": "global powers",
+                  "type": "internal",
+                  "page": "Potential superpower"
+                },
+                {
+                  "text": "nuclear weapons",
+                  "type": "internal",
+                  "page": "nuclear weapons"
+                },
+                {
+                  "text": "climate change",
+                  "type": "internal",
+                  "page": "climate change"
+                },
+                {
+                  "type": "internal",
+                  "page": "COVID-19 pandemic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Norodom_king_of_Cambodia.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Norodom_king_of_Cambodia.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Norodom_king_of_Cambodia.jpg",
+          "caption": "210px",
+          "links": []
+        }
+      ],
+      "references": [
         {
           "url": "https://www.khmertimeskh.com/501072892/vote-without-fear-says-king/",
           "title": "Vote without fear, says King",
           "work": "Khmer Times",
           "date": "11 May 2022",
           "access-date": "3 August 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://en.vietnamplus.vn/pm-pledges-further-support-to-cambodias-asean-community-building-efforts/243615.amp",
+          "title": "PM pledges further support to Cambodia’s ASEAN Community building efforts",
+          "work": "VietnamPlus - Vietnam News Agency",
+          "date": "10 November 2022",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://phnompenhpost.com/national-politics/king-pm-seek-parliamentary-co-op-asean-unity-peace",
+          "title": "King, PM seek parliamentary co-op for ASEAN unity, peace",
+          "work": "Phnom Penh Post",
+          "date": "21 November 2022",
+          "access-date": "21 December 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.khmertimeskh.com/501188714/myanmar-crisis-thwarts-asean-dreams-says-king-sihamoni/",
+          "title": "Myanmar crisis thwarts ASEAN dreams, says King Sihamoni",
+          "work": "Khmer Times",
+          "date": "22 November 2022",
+          "access-date": "21 December 2022",
           "template": "citation",
           "type": "news"
         }
@@ -3517,7 +3612,7 @@
               ]
             },
             {
-              "text": "He represented Cambodia at the 2019 UNESCO Conference on Dialogue of Asian Civilizations (CDAC) in Beijing aimed at enhancing regional cooperation.",
+              "text": "He represented Cambodia at the 2019 UNESCO Conference on Dialogue of Asian Civilizations (CDAC) in Beijing aimed at enhancing regional cooperation and intercultural exchange.",
               "links": [
                 {
                   "type": "internal",
@@ -5354,6 +5449,16 @@
                 "page": "Krama"
               }
             ]
+          },
+          {
+            "text": "Angkor Archaeological Park meditation centre - Patron",
+            "links": [
+              {
+                "text": "Angkor Archaeological Park",
+                "type": "internal",
+                "page": "Angkor"
+              }
+            ]
           }
         ]
       ],
@@ -5401,6 +5506,16 @@
           "url": "https://www.guinnessworldrecords.com/world-records/465829-longest-hand-woven-scarf-team",
           "access-date": "23 April 2022",
           "website": "Guinness World Records Limited",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022",
+          "title": "New Angkor meditation centre opens",
+          "url": "https://www.phnompenhpost.com/lifestyle/new-angkor-meditation-centre-opens",
+          "access-date": "21 December 2022",
+          "website": "Phnom Penh Post",
           "language": "en-US",
           "template": "citation",
           "type": "web"
@@ -6134,6 +6249,20 @@
             ]
           },
           {
+            "text": "King Sihamoni Meditation Centre at Angkor Archaeological Park, Siem Reap province",
+            "links": [
+              {
+                "text": "Angkor Archaeological Park",
+                "type": "internal",
+                "page": "Angkor"
+              },
+              {
+                "type": "internal",
+                "page": "Siem Reap province"
+              }
+            ]
+          },
+          {
             "text": "King Norodom Sihamoni Boulevard, in Siem Reap, Siem Reap province",
             "links": [
               {
@@ -6199,6 +6328,16 @@
           "url": "http://apps.rhs.org.uk/horticulturaldatabase/orchidregister/orchiddetails.asp?ID=155809",
           "title": "Search The International Orchid Register - Orchid details: Dendrobium Norodom Sihamoni",
           "access-date": "4 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022",
+          "title": "New Angkor meditation centre opens",
+          "url": "https://www.phnompenhpost.com/lifestyle/new-angkor-meditation-centre-opens",
+          "access-date": "21 December 2022",
+          "website": "Phnom Penh Post",
+          "language": "en-US",
           "template": "citation",
           "type": "web"
         },
