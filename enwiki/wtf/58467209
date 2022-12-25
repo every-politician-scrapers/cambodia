@@ -156,6 +156,9 @@
           "term_start1": {
             "text": "12 September 2018"
           },
+          "term_end1": {
+            "text": "24 December 2022"
+          },
           "primeminister1": {
             "text": "Hun Sen",
             "links": [
@@ -196,6 +199,9 @@
           "term_start2": {
             "text": "5 April 2016"
           },
+          "term_end2": {
+            "text": "24 December 2022"
+          },
           "predecessor2": {
             "text": "Im Chhun Lim",
             "links": [
@@ -216,6 +222,9 @@
           },
           "term_start3": {
             "text": "5 September 2018"
+          },
+          "term_end3": {
+            "text": "24 December 2022"
           },
           "office4": {
             "text": "Minister of Rural Development",

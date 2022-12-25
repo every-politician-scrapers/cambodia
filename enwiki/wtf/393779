@@ -411,11 +411,15 @@
           "template": "ubl"
         },
         {
-          "year": "1952",
-          "month": "8",
-          "day": "5",
-          "df": "y",
-          "template": "birth date and age"
+          "template": "date",
+          "data": {
+            "year": "1952",
+            "month": "8",
+            "date": "5",
+            "df": "y",
+            "template": "birth date",
+            "text": "August 5, 1952"
+          }
         },
         {
           "spouse": "Bun Rany",
@@ -484,6 +488,9 @@
           "term_start": {
             "text": "30 November 1998"
           },
+          "term_end": {
+            "text": "24 December 2022"
+          },
           "monarch": {
             "text": "Norodom Sihanouk\n\nNorodom Sihamoni"
           },
@@ -535,6 +542,15 @@
                 "Himself"
               ]
             }
+          },
+          "successor": {
+            "text": "Norodom Sihamoni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norodom Sihamoni"
+              }
+            ]
           },
           "status2": {
             "text": "Second Prime Minister"
@@ -680,6 +696,9 @@
           "term_start4": {
             "text": "20 June 2015"
           },
+          "term_end4": {
+            "text": "24 December 2022"
+          },
           "predecessor4": {
             "text": "Chea Sim",
             "links": [
@@ -701,6 +720,9 @@
           },
           "term_start5": {
             "text": "14 June 1993"
+          },
+          "term_end5": {
+            "text": "24 December 2022"
           },
           "constituency5": {
             "text": "Kampong Cham (1993–1998)\nKandal (1998–present)",
@@ -870,6 +892,9 @@
                 "page": "French Indochina"
               }
             ]
+          },
+          "cause of death": {
+            "text": "Assassination"
           },
           "nationality": {
             "text": "Cambodian"
