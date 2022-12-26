@@ -188,7 +188,13 @@
             ]
           },
           "regent": {
-            "text": "Himself"
+            "text": "Hun Sen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hun Sen"
+              }
+            ]
           },
           "house": {
             "text": "Norodom",

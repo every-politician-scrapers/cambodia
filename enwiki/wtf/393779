@@ -488,9 +488,6 @@
           "term_start": {
             "text": "30 November 1998"
           },
-          "term_end": {
-            "text": "24 December 2022"
-          },
           "monarch": {
             "text": "Norodom Sihanouk\n\nNorodom Sihamoni"
           },
@@ -578,11 +575,11 @@
             "text": "30 November 1998"
           },
           "monarch2": {
-            "text": "Norodom Sihanouk",
+            "text": "Heng Samrin",
             "links": [
               {
                 "type": "internal",
-                "page": "Norodom Sihanouk"
+                "page": "Heng Samrin"
               }
             ]
           },
