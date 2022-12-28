@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "Hor Namhong (ហោ ណាំហុង; born 15 November 1935) is a Cambodian diplomat who served in the government of Cambodia as Minister of Foreign Affairs from 1990 to 1993 and again from 1998 to 2016.",
+              "text": "Hor Namhong  (ហោ ណាំហុង; born 15 November 1935) is a Cambodian diplomat who served in the government of Cambodia as Minister of Foreign Affairs from 1990 to 1993 and again from 1998 to 2016.",
               "links": [
                 {
                   "text": "Cambodian",
@@ -84,6 +84,10 @@
           "day": "15",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "_list": "GCC",
+          "template": "post-nominals"
         },
         {
           "_list": "GOM",

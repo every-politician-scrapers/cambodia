@@ -71,6 +71,10 @@
           "template": "family name hatnote"
         },
         {
+          "_list": "GCC",
+          "template": "post-nominals"
+        },
+        {
           "list": [
             "Additional positions"
           ],
@@ -121,17 +125,12 @@
             "text": "ទៀ បាញ់"
           },
           "honorific-suffix": {
-            "text": "NM GCC MP",
+            "text": "NM MP",
             "links": [
               {
                 "text": "NM",
                 "type": "internal",
                 "page": "Grand Order of National Merit"
-              },
-              {
-                "text": "GCC",
-                "type": "internal",
-                "page": "Royal Order of Cambodia"
               },
               {
                 "text": "MP",
