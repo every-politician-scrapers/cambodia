@@ -1,10 +1,10 @@
 who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-393779,Q1999325,Prime Minister of Cambodia,1998-11-30,,,Himself as Second Prime Minister,,,0
+393779,Q1999325,Prime Minister of Cambodia,1998-11-30,,,Himself as Second Prime Minister,Q57319,Norodom Sihamoni,0
 393779,,,,,,,,,1
 393779,,,1993-09-24,1998-11-30,Norodom Ranariddh,Norodom Ranariddh as sole Prime Minister,,Himself as sole Prime Minister,2
 393779,,,1985-01-14,2 July 1993 Acting: 26 December 1984 – 14 January 1985,Chan Sy,Chan Sy,Norodom Ranariddh,Norodom Ranariddh,3
-393779,Cambodian People's Party,President of the Cambodian People's Party,2015-06-20,,Chea Sim,Chea Sim,,,4
-393779,National Assembly (Cambodia),Member of the National Assembly,1993-06-14,,,,,,5
+393779,Cambodian People's Party,President of the Cambodian People's Party,2015-06-20,2022-12-24,Chea Sim,Chea Sim,,,4
+393779,National Assembly (Cambodia),Member of the National Assembly,1993-06-14,2022-12-24,,,,,5
 393779,Ministry of Foreign Affairs and International Cooperation (Cambodia),Minister of Foreign Affairs,1988,1990,Kong Korm,Kong Korm,Q58287,Hor Namhong,6
 393779,,,1979-01-08,1986-12,Ieng Sary,Ieng Sary,Kong Korm,Kong Korm,7
 393779,Deputy Prime Minister of Cambodia,Deputy Prime Minister of the People's Republic of Kampuchea,1981,1985,,,,,8
