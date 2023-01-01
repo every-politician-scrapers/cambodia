@@ -459,11 +459,10 @@
                   "page": "United Nations High Commissioner for Human Rights"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
+            {
+              "text": "\"Court officials at all levels must ... ensure the fair provision of justice for the people. Legal services must be conducted quickly, accurately and fairly to further enhance the honour and dignity of the judiciary.\""
+            },
             {
               "text": "While Koeut Rith has emphasized the necessity of due process and the fight against corruption in Cambodian courts, more than a third of the nation’s prison population is in pre-trial detention, though some rights groups put that figure closer to 75 percent.",
               "links": [
