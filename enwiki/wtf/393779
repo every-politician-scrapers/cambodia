@@ -806,9 +806,13 @@
             "text": "Deputy Prime Minister of the People's Republic of Kampuchea",
             "links": [
               {
-                "text": "Deputy Prime Minister of the People's Republic of Kampuchea",
+                "text": "Deputy Prime Minister",
                 "type": "internal",
                 "page": "Deputy Prime Minister of Cambodia"
+              },
+              {
+                "type": "internal",
+                "page": "People's Republic of Kampuchea"
               }
             ]
           },
